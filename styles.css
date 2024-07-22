@@ -1,0 +1,8 @@
+@font-face {
+	font-family: ancient;
+	src: url("ancientrunes.ttf");
+}
+
+.ancient {
+	font-family: ancient;
+}
