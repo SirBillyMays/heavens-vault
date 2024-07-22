@@ -3,6 +3,18 @@
 	src: url("ancientrunes.ttf");
 }
 
+
 .ancient {
 	font-family: ancient;
+	font-size: 40px; /* Adjust the size as needed */
+	color: rgba(0, 0, 0, 0.8); /* Slight transparency with black color */
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 32px; /* Ensure proper syntax by adding 'px' */
 }
