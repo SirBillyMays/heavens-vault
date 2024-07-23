@@ -1,6 +1,6 @@
 This repository is for a [Heavens Vault](https://store.steampowered.com/app/774201/Heavens_Vault/) language decoder.
 
-The page is hosted on Github Pages, under heavens-vault.hatman.dev. To contribute, please check out the gh-pages branch.
+The page is hosted on Github Pages, under [heavens-vault.hatman.dev.](https://heavens-vault.hatman.dev/)
 
 The font was gathered from the Heavens Vault discord, although no license or original source for the font could be found. The font is available in this repository, but I ask that you please seek out an original source if you wish you reuse the font. If you are the creator of the font and take issue with this project, please let me know.
 
