@@ -6,4 +6,4 @@ The font was gathered from the Heavens Vault discord, although no license or ori
 
 Heavens Vault and the ancient script are property of Inkle Ltd., and this project is not related to, affiliated with or endorsed by Inkle Ltd. This project is a fan made project and does not intend to intrude upon rights by any party.
 
-The definitions of the words/lexemes are sourced from the [fan made wiki.](https://heavensvault.gamerescape.com/wiki/Language/spoilers), unless otherwise noted.
+The definitions of the words and lexemes (atoms) are sourced from the game files (ExportedProject/Assets/Resources/translation game/data/GameData.json, if you're using AssetRipper.)
