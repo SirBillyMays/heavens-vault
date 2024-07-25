@@ -7,3 +7,5 @@ The font was gathered from the Heavens Vault discord, although no license or ori
 Heavens Vault and the ancient script are property of Inkle Ltd., and this project is not related to, affiliated with or endorsed by Inkle Ltd. This project is a fan made project and does not intend to intrude upon rights by any party.
 
 The definitions of the words and lexemes (atoms) are sourced from the game files (ExportedProject/Assets/Resources/translation game/data/GameData.json, if you're using AssetRipper.)
+
+ExportedProject/Assets/TextAsset/core.json contains a number of different text events in the game, most notably the "book of truth". This file is in its entirety under the "assets" folder of this project, although with time I intend to cut it down to just contain the core and necessary text elements.
