@@ -1,0 +1,188 @@
+{
+    "atoms": [
+        {
+            "name": "0",
+            "atomType": "atom"
+        },
+        {
+            "name": "1",
+            "atomType": "atom"
+        },
+        {
+            "name": "2",
+            "atomType": "atom"
+        },
+        {
+            "name": "3",
+            "atomType": "atom"
+        },
+        {
+            "name": "4",
+            "atomType": "atom"
+        },
+        {
+            "name": "5",
+            "atomType": "atom"
+        },
+        {
+            "name": "6",
+            "atomType": "atom"
+        },
+        {
+            "name": "7",
+            "atomType": "atom"
+        },
+        {
+            "name": "8",
+            "atomType": "atom"
+        },
+        {
+            "name": "9",
+            "atomType": "atom"
+        },
+        {
+            "name": "person",
+            "atomType": "type"
+        },
+        {
+            "name": "place",
+            "atomType": "type"
+        },
+        {
+            "name": "creature",
+            "atomType": "type"
+        },
+        {
+            "name": "plant",
+            "atomType": "type"
+        },
+        {
+            "name": "query",
+            "atomType": "type"
+        },
+        {
+            "name": "mineral",
+            "atomType": "type"
+        },
+        {
+            "name": "property",
+            "atomType": "type"
+        },
+        {
+            "name": "time",
+            "atomType": "type"
+        },
+        {
+            "name": "noun",
+            "atomType": "prefix"
+        },
+        {
+            "name": "verb",
+            "atomType": "prefix"
+        },
+        {
+            "name": "quality",
+            "atomType": "prefix"
+        },
+        {
+            "name": "past_tense",
+            "atomType": "modifier"
+        },
+        {
+            "name": "many",
+            "atomType": "modifier"
+        },
+        {
+            "name": "not",
+            "atomType": "modifier"
+        },
+        {
+            "name": "of",
+            "atomType": "modifier"
+        },
+        {
+            "name": "and",
+            "atomType": "modifier"
+        },
+        {
+            "name": "High",
+            "atomType": "atom"
+        },
+        {
+            "name": "Motion",
+            "atomType": "atom"
+        },
+        {
+            "name": "Light",
+            "atomType": "atom"
+        },
+        {
+            "name": "Possession",
+            "atomType": "atom"
+        },
+        {
+            "name": "Knowledge",
+            "atomType": "atom"
+        },
+        {
+            "name": "Rock",
+            "atomType": "atom"
+        },
+        {
+            "name": "Life",
+            "atomType": "atom"
+        },
+        {
+            "name": "Water",
+            "atomType": "atom"
+        },
+        {
+            "name": "Heat",
+            "atomType": "atom"
+        },
+        {
+            "name": "Beginning",
+            "atomType": "atom"
+        },
+        {
+            "name": "Circle",
+            "atomType": "atom"
+        },
+        {
+            "name": "Truth",
+            "atomType": "atom"
+        },
+        {
+            "name": "Food",
+            "atomType": "atom"
+        },
+        {
+            "name": "Separate",
+            "atomType": "atom"
+        },
+        {
+            "name": "Join",
+            "atomType": "atom"
+        },
+        {
+            "name": "Say",
+            "atomType": "atom"
+        },
+        {
+            "name": "Being",
+            "atomType": "atom"
+        },
+        {
+            "name": "joinGlyph1",
+            "atomType": "punctuation"
+        },
+        {
+            "name": "joinGlyph2",
+            "atomType": "punctuation"
+        },
+        {
+            "name": "primitive",
+            "atomType": "punctuation"
+        }
+    ]
+}

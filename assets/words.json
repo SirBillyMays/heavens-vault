@@ -1,0 +1,8775 @@
+{ 
+    "words": [
+        {
+            "name": "who",
+            "components": [
+                "query",
+                "person"
+            ]
+        },
+        {
+            "name": "what",
+            "equivalences": [
+                "which"
+            ],
+            "components": [
+                "query",
+                "noun"
+            ]
+        },
+        {
+            "name": "where",
+            "components": [
+                "query",
+                "place"
+            ]
+        },
+        {
+            "name": "when",
+            "components": [
+                "query",
+                "time"
+            ]
+        },
+        {
+            "name": "if",
+            "equivalences": [
+                "how"
+            ],
+            "components": [
+                "query",
+                "path"
+            ]
+        },
+        {
+            "name": "why",
+            "components": [
+                "query",
+                "what",
+                "if"
+            ]
+        },
+        {
+            "name": "can",
+            "components": [
+                "query",
+                "act"
+            ]
+        },
+        {
+            "name": "may",
+            "equivalences": [
+                "would"
+            ],
+            "components": [
+                "query",
+                "should"
+            ]
+        },
+        {
+            "name": "may-not",
+            "equivalences": [
+                "would-not"
+            ],
+            "components": [
+                "query",
+                "not",
+                "should"
+            ]
+        },
+        {
+            "name": "eagle",
+            "equivalences": [
+                "bird",
+                "eagles",
+                "birds"
+            ],
+            "components": [
+                "creature",
+                "High"
+            ]
+        },
+        {
+            "name": "fish",
+            "equivalences": [
+                "fishes"
+            ],
+            "components": [
+                "creature",
+                "Water"
+            ]
+        },
+        {
+            "name": "snake",
+            "equivalences": [
+                "serpent"
+            ],
+            "components": [
+                "creature",
+                "grass"
+            ]
+        },
+        {
+            "name": "human",
+            "equivalences": [
+                "humans"
+            ],
+            "components": [
+                "creature",
+                "person"
+            ]
+        },
+        {
+            "name": "donkey",
+            "equivalences": [
+                "horse",
+                "donkeys",
+                "horses"
+            ],
+            "components": [
+                "creature",
+                "market"
+            ]
+        },
+        {
+            "name": "insect",
+            "equivalences": [
+                "spider",
+                "insects",
+                "spiders"
+            ],
+            "components": [
+                "creature",
+                "many",
+                "leg"
+            ]
+        },
+        {
+            "name": "songbird",
+            "equivalences": [
+                "nightingale",
+                "songbirds",
+                "nightingales"
+            ],
+            "components": [
+                "creature",
+                "song",
+                "eagle"
+            ]
+        },
+        {
+            "name": "frog",
+            "equivalences": [
+                "toad",
+                "frogs",
+                "toads"
+            ],
+            "components": [
+                "creature",
+                "Motion",
+                "high"
+            ]
+        },
+        {
+            "name": "pig",
+            "equivalences": [
+                "pigs"
+            ],
+            "components": [
+                "creature",
+                "happy",
+                "earth"
+            ]
+        },
+        {
+            "name": "rabbit",
+            "equivalences": [
+                "rabbits"
+            ],
+            "components": [
+                "creature",
+                "tiny",
+                "pig"
+            ]
+        },
+        {
+            "name": "mouse",
+            "equivalences": [
+                "mice"
+            ],
+            "components": [
+                "creature",
+                "very",
+                "tiny",
+                "pig"
+            ]
+        },
+        {
+            "name": "monkey",
+            "equivalences": [
+                "monkeys"
+            ],
+            "components": [
+                "creature",
+                "climb",
+                "tree"
+            ]
+        },
+        {
+            "name": "robot",
+            "equivalences": [
+                "mechanical",
+                "robots",
+                "mechanicals"
+            ],
+            "components": [
+                "mineral",
+                "human"
+            ]
+        },
+        {
+            "name": "circuit",
+            "equivalences": [
+                "circuits"
+            ],
+            "components": [
+                "mineral",
+                "Circle"
+            ]
+        },
+        {
+            "name": "lightning",
+            "equivalences": [
+                "thunder"
+            ],
+            "components": [
+                "mineral",
+                "High"
+            ]
+        },
+        {
+            "name": "metal",
+            "equivalences": [
+                "metals"
+            ],
+            "components": [
+                "mineral",
+                "Rock"
+            ]
+        },
+        {
+            "name": "memory",
+            "equivalences": [
+                "memories"
+            ],
+            "components": [
+                "mineral",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "acid",
+            "components": [
+                "mineral",
+                "Water"
+            ]
+        },
+        {
+            "name": "work",
+            "equivalences": [
+                "labour",
+                "operation",
+                "labours",
+                "operations"
+            ],
+            "components": [
+                "mineral",
+                "Motion"
+            ]
+        },
+        {
+            "name": "machine",
+            "equivalences": [
+                "machines"
+            ],
+            "components": [
+                "mineral",
+                "noun"
+            ]
+        },
+        {
+            "name": "core",
+            "equivalences": [
+                "cores"
+            ],
+            "components": [
+                "mineral",
+                "heart"
+            ]
+        },
+        {
+            "name": "glass",
+            "components": [
+                "mineral",
+                "Light",
+                "Rock"
+            ]
+        },
+        {
+            "name": "sword",
+            "equivalences": [
+                "blade",
+                "swords",
+                "blades"
+            ],
+            "components": [
+                "mineral",
+                "sever"
+            ]
+        },
+        {
+            "name": "dagger",
+            "equivalences": [
+                "",
+                "daggers"
+            ],
+            "components": [
+                "mineral",
+                "hand",
+                "sword"
+            ]
+        },
+        {
+            "name": "power",
+            "equivalences": [
+                "powers"
+            ],
+            "components": [
+                "mineral",
+                "Light"
+            ]
+        },
+        {
+            "name": "recording",
+            "equivalences": [
+                "ghost",
+                "recordings",
+                "ghosts"
+            ],
+            "components": [
+                "mineral",
+                "voice"
+            ]
+        },
+        {
+            "name": "bell",
+            "equivalences": [
+                "bells"
+            ],
+            "components": [
+                "mineral",
+                "song"
+            ]
+        },
+        {
+            "name": "chain",
+            "equivalences": [
+                "chains"
+            ],
+            "components": [
+                "mineral",
+                "rope"
+            ]
+        },
+        {
+            "name": "grass",
+            "components": [
+                "plant",
+                "site"
+            ]
+        },
+        {
+            "name": "tree",
+            "equivalences": [
+                "trees"
+            ],
+            "components": [
+                "plant",
+                "High"
+            ]
+        },
+        {
+            "name": "root",
+            "equivalences": [
+                "roots"
+            ],
+            "components": [
+                "plant",
+                "Rock",
+                "tree"
+            ]
+        },
+        {
+            "name": "wood",
+            "equivalences": [
+                "woods"
+            ],
+            "components": [
+                "plant",
+                "body",
+                "tree"
+            ]
+        },
+        {
+            "name": "lichen",
+            "equivalences": [
+                "moss"
+            ],
+            "components": [
+                "plant",
+                "Rock"
+            ]
+        },
+        {
+            "name": "grain",
+            "equivalences": [
+                "fruit",
+                "grains",
+                "fruits"
+            ],
+            "components": [
+                "plant",
+                "gift"
+            ]
+        },
+        {
+            "name": "leaf",
+            "components": [
+                "plant",
+                "Light",
+                "tree"
+            ]
+        },
+        {
+            "name": "branch",
+            "equivalences": [
+                "branches"
+            ],
+            "components": [
+                "plant",
+                "Motion",
+                "tree"
+            ]
+        },
+        {
+            "name": "seed",
+            "equivalences": [
+                "seeds"
+            ],
+            "components": [
+                "plant",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "flower",
+            "equivalences": [
+                "flowers"
+            ],
+            "components": [
+                "plant",
+                "Truth"
+            ]
+        },
+        {
+            "name": "journey",
+            "equivalences": [
+                "journeys"
+            ],
+            "components": [
+                "noun",
+                "sail"
+            ]
+        },
+        {
+            "name": "guild",
+            "equivalences": [
+                "guilds"
+            ],
+            "components": [
+                "noun",
+                "many",
+                "seller"
+            ]
+        },
+        {
+            "name": "game",
+            "equivalences": [
+                "games"
+            ],
+            "components": [
+                "noun",
+                "play"
+            ]
+        },
+        {
+            "name": "writing",
+            "equivalences": [
+                "script"
+            ],
+            "components": [
+                "noun",
+                "write"
+            ]
+        },
+        {
+            "name": "print",
+            "components": [
+                "noun",
+                "mineral",
+                "write"
+            ]
+        },
+        {
+            "name": "this",
+            "equivalences": [
+                "these"
+            ],
+            "components": [
+                "noun",
+                "me"
+            ]
+        },
+        {
+            "name": "language",
+            "components": [
+                "noun",
+                "many",
+                "word"
+            ]
+        },
+        {
+            "name": "other",
+            "equivalences": [
+                "different"
+            ],
+            "components": [
+                "noun",
+                "not",
+                "this"
+            ]
+        },
+        {
+            "name": "mystery",
+            "equivalences": [
+                "mysteries",
+                "secrets"
+            ],
+            "components": [
+                "noun",
+                "hidden"
+            ]
+        },
+        {
+            "name": "that",
+            "equivalences": [
+                "those"
+            ],
+            "components": [
+                "noun",
+                "you"
+            ]
+        },
+        {
+            "name": "sight",
+            "equivalences": [
+                "sights"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "watch"
+            ]
+        },
+        {
+            "name": "nothing",
+            "components": [
+                "noun",
+                "0"
+            ]
+        },
+        {
+            "name": "prayer",
+            "equivalences": [
+                "worship",
+                "prayers"
+            ],
+            "components": [
+                "noun",
+                "pray"
+            ]
+        },
+        {
+            "name": "breath",
+            "components": [
+                "noun",
+                "breathe"
+            ]
+        },
+        {
+            "name": "greeting",
+            "equivalences": [
+                "greetings"
+            ],
+            "components": [
+                "noun",
+                "welcome"
+            ]
+        },
+        {
+            "name": "goodbye",
+            "equivalences": [
+                "farewell",
+                "goodbyes",
+                "farewells"
+            ],
+            "components": [
+                "noun",
+                "end",
+                "welcome"
+            ]
+        },
+        {
+            "name": "rope",
+            "equivalences": [
+                "ropes"
+            ],
+            "components": [
+                "noun",
+                "Join"
+            ]
+        },
+        {
+            "name": "knot",
+            "equivalences": [
+                "knots"
+            ],
+            "components": [
+                "noun",
+                "Rock",
+                "rope"
+            ]
+        },
+        {
+            "name": "food",
+            "components": [
+                "noun",
+                "Food"
+            ]
+        },
+        {
+            "name": "mark",
+            "equivalences": [
+                "marks"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "sever"
+            ]
+        },
+        {
+            "name": "cup",
+            "equivalences": [
+                "cups"
+            ],
+            "components": [
+                "noun",
+                "drink"
+            ]
+        },
+        {
+            "name": "clock",
+            "equivalences": [
+                "clocks"
+            ],
+            "components": [
+                "noun",
+                "Say",
+                "time"
+            ]
+        },
+        {
+            "name": "poison",
+            "components": [
+                "noun",
+                "death",
+                "drink"
+            ]
+        },
+        {
+            "name": "goblet",
+            "equivalences": [
+                "goblets"
+            ],
+            "components": [
+                "noun",
+                "precious",
+                "cup"
+            ]
+        },
+        {
+            "name": "coal",
+            "equivalences": [
+                "coals"
+            ],
+            "components": [
+                "noun",
+                "Heat",
+                "Rock"
+            ]
+        },
+        {
+            "name": "iron",
+            "components": [
+                "noun",
+                "Circle",
+                "Rock"
+            ]
+        },
+        {
+            "name": "line",
+            "equivalences": [
+                "lines"
+            ],
+            "components": [
+                "noun",
+                "light",
+                "Circle"
+            ]
+        },
+        {
+            "name": "blessing",
+            "equivalences": [
+                "blessings"
+            ],
+            "components": [
+                "noun",
+                "bless"
+            ]
+        },
+        {
+            "name": "healing",
+            "components": [
+                "noun",
+                "heal"
+            ]
+        },
+        {
+            "name": "air",
+            "equivalences": [
+                "airs"
+            ],
+            "components": [
+                "noun",
+                "High"
+            ]
+        },
+        {
+            "name": "jewel",
+            "equivalences": [
+                "treasure",
+                "gem",
+                "crystal",
+                "jewels",
+                "treasures",
+                "gems",
+                "crystals"
+            ],
+            "components": [
+                "noun",
+                "star",
+                "Rock"
+            ]
+        },
+        {
+            "name": "wind",
+            "equivalences": [
+                "winds"
+            ],
+            "components": [
+                "noun",
+                "Motion",
+                "High"
+            ]
+        },
+        {
+            "name": "gale",
+            "equivalences": [
+                "storm",
+                "gales",
+                "storms"
+            ],
+            "components": [
+                "noun",
+                "strong",
+                "wind"
+            ]
+        },
+        {
+            "name": "sailcloth",
+            "equivalences": [
+                "sailcloths"
+            ],
+            "components": [
+                "noun",
+                "hold",
+                "wind"
+            ]
+        },
+        {
+            "name": "boat",
+            "equivalences": [
+                "ship",
+                "boats",
+                "ships"
+            ],
+            "components": [
+                "noun",
+                "Motion",
+                "wind"
+            ]
+        },
+        {
+            "name": "fleet",
+            "components": [
+                "noun",
+                "many",
+                "boat"
+            ]
+        },
+        {
+            "name": "flag",
+            "equivalences": [
+                "flags"
+            ],
+            "components": [
+                "noun",
+                "Say",
+                "wind"
+            ]
+        },
+        {
+            "name": "possession",
+            "equivalences": [
+                "possessions"
+            ],
+            "components": [
+                "noun",
+                "Possession"
+            ]
+        },
+        {
+            "name": "star",
+            "equivalences": [
+                "stars"
+            ],
+            "components": [
+                "noun",
+                "Light",
+                "High"
+            ]
+        },
+        {
+            "name": "light",
+            "components": [
+                "noun",
+                "Light"
+            ]
+        },
+        {
+            "name": "starlight",
+            "components": [
+                "noun",
+                "star",
+                "light"
+            ]
+        },
+        {
+            "name": "mountain",
+            "equivalences": [
+                "mountains"
+            ],
+            "components": [
+                "noun",
+                "High",
+                "Rock"
+            ]
+        },
+        {
+            "name": "rock",
+            "equivalences": [
+                "stone",
+                "rocks",
+                "stones"
+            ],
+            "components": [
+                "noun",
+                "Rock"
+            ]
+        },
+        {
+            "name": "clay",
+            "components": [
+                "noun",
+                "build",
+                "Rock"
+            ]
+        },
+        {
+            "name": "earth",
+            "equivalences": [
+                "soil",
+                "mud"
+            ],
+            "components": [
+                "noun",
+                "plant",
+                "Rock"
+            ]
+        },
+        {
+            "name": "ice",
+            "components": [
+                "noun",
+                "Water",
+                "still"
+            ]
+        },
+        {
+            "name": "salt",
+            "components": [
+                "noun",
+                "Water",
+                "Rock"
+            ]
+        },
+        {
+            "name": "tear",
+            "equivalences": [
+                "tears"
+            ],
+            "components": [
+                "noun",
+                "person",
+                "salt"
+            ]
+        },
+        {
+            "name": "Nebula",
+            "components": [
+                "noun",
+                "many",
+                "star"
+            ]
+        },
+        {
+            "name": "law",
+            "equivalences": [
+                "laws"
+            ],
+            "components": [
+                "noun",
+                "Knowledge",
+                "person"
+            ]
+        },
+        {
+            "name": "people",
+            "components": [
+                "noun",
+                "many",
+                "person"
+            ]
+        },
+        {
+            "name": "heart",
+            "equivalences": [
+                "hearts"
+            ],
+            "components": [
+                "noun",
+                "love"
+            ]
+        },
+        {
+            "name": "life",
+            "components": [
+                "noun",
+                "Life"
+            ]
+        },
+        {
+            "name": "freedom",
+            "components": [
+                "noun",
+                "High",
+                "Life"
+            ]
+        },
+        {
+            "name": "idea",
+            "equivalences": [
+                "ideas"
+            ],
+            "components": [
+                "noun",
+                "Knowledge",
+                "High"
+            ]
+        },
+        {
+            "name": "reason",
+            "equivalences": [
+                "reasons"
+            ],
+            "components": [
+                "noun",
+                "think"
+            ]
+        },
+        {
+            "name": "wish",
+            "equivalences": [
+                "hope",
+                "dream",
+                "wishes",
+                "hopes",
+                "dreams"
+            ],
+            "components": [
+                "noun",
+                "star",
+                "idea"
+            ]
+        },
+        {
+            "name": "knowledge",
+            "components": [
+                "noun",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "darkness",
+            "components": [
+                "noun",
+                "not",
+                "Light"
+            ]
+        },
+        {
+            "name": "shadow",
+            "equivalences": [
+                "shadows"
+            ],
+            "components": [
+                "noun",
+                "dark",
+                "shape"
+            ]
+        },
+        {
+            "name": "death",
+            "equivalences": [
+                "deaths"
+            ],
+            "components": [
+                "noun",
+                "not",
+                "Life"
+            ]
+        },
+        {
+            "name": "water",
+            "equivalences": [
+                "waters"
+            ],
+            "components": [
+                "noun",
+                "Water"
+            ]
+        },
+        {
+            "name": "blood",
+            "equivalences": [
+                "bloods"
+            ],
+            "components": [
+                "noun",
+                "Life",
+                "Water"
+            ]
+        },
+        {
+            "name": "river",
+            "equivalences": [
+                "stream",
+                "rivers",
+                "streams"
+            ],
+            "components": [
+                "noun",
+                "Water",
+                "wind"
+            ]
+        },
+        {
+            "name": "path",
+            "equivalences": [
+                "way",
+                "road",
+                "paths",
+                "ways",
+                "roads"
+            ],
+            "components": [
+                "noun",
+                "Motion"
+            ]
+        },
+        {
+            "name": "wall",
+            "equivalences": [
+                "barrier",
+                "walls",
+                "barriers"
+            ],
+            "components": [
+                "noun",
+                "Rock",
+                "not",
+                "Motion"
+            ]
+        },
+        {
+            "name": "junction",
+            "equivalences": [
+                "junctions"
+            ],
+            "components": [
+                "noun",
+                "Motion",
+                "knot"
+            ]
+        },
+        {
+            "name": "weapon",
+            "equivalences": [
+                "weapons"
+            ],
+            "components": [
+                "noun",
+                "kill"
+            ]
+        },
+        {
+            "name": "phoenix",
+            "components": [
+                "noun",
+                "fire",
+                "eagle"
+            ]
+        },
+        {
+            "name": "fire",
+            "equivalences": [
+                "fires"
+            ],
+            "components": [
+                "noun",
+                "Heat"
+            ]
+        },
+        {
+            "name": "smoke",
+            "components": [
+                "noun",
+                "lift",
+                "fire"
+            ]
+        },
+        {
+            "name": "time",
+            "equivalences": [
+                "times"
+            ],
+            "components": [
+                "noun",
+                "time"
+            ]
+        },
+        {
+            "name": "circle",
+            "equivalences": [
+                "loop",
+                "circles",
+                "loops"
+            ],
+            "components": [
+                "noun",
+                "Circle"
+            ]
+        },
+        {
+            "name": "arc",
+            "equivalences": [
+                "arcs"
+            ],
+            "components": [
+                "noun",
+                "Separate",
+                "Circle"
+            ]
+        },
+        {
+            "name": "sunset",
+            "equivalences": [
+                "evening"
+            ],
+            "components": [
+                "noun",
+                "air",
+                "dark"
+            ]
+        },
+        {
+            "name": "dawn",
+            "equivalences": [
+                "morning"
+            ],
+            "components": [
+                "noun",
+                "air",
+                "light"
+            ]
+        },
+        {
+            "name": "lamp",
+            "equivalences": [
+                "lantern",
+                "lamps",
+                "lanterns"
+            ],
+            "components": [
+                "noun",
+                "Possession",
+                "Light"
+            ]
+        },
+        {
+            "name": "candle",
+            "equivalences": [
+                "candles"
+            ],
+            "components": [
+                "noun",
+                "Heat",
+                "Light"
+            ]
+        },
+        {
+            "name": "mutiny",
+            "equivalences": [
+                "mutinies"
+            ],
+            "components": [
+                "noun",
+                "not",
+                "law",
+                "boat"
+            ]
+        },
+        {
+            "name": "harvest",
+            "equivalences": [
+                "harvests"
+            ],
+            "components": [
+                "noun",
+                "hold",
+                "Food"
+            ]
+        },
+        {
+            "name": "gift",
+            "equivalences": [
+                "offering",
+                "tribute",
+                "gifts",
+                "offerings",
+                "tributes"
+            ],
+            "components": [
+                "noun",
+                "give"
+            ]
+        },
+        {
+            "name": "leg",
+            "equivalences": [
+                "legs"
+            ],
+            "components": [
+                "noun",
+                "Motion",
+                "person"
+            ]
+        },
+        {
+            "name": "head",
+            "equivalences": [
+                "brain",
+                "mind",
+                "soul",
+                "heads",
+                "brains",
+                "minds",
+                "souls"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "Knowledge",
+                "person"
+            ]
+        },
+        {
+            "name": "hair",
+            "components": [
+                "noun",
+                "head",
+                "grass"
+            ]
+        },
+        {
+            "name": "skull",
+            "equivalences": [
+                "skulls"
+            ],
+            "components": [
+                "noun",
+                "at",
+                "head"
+            ]
+        },
+        {
+            "name": "hand",
+            "equivalences": [
+                "hands"
+            ],
+            "components": [
+                "noun",
+                "verb",
+                "person"
+            ]
+        },
+        {
+            "name": "shoulder",
+            "equivalences": [
+                "neck",
+                "throat",
+                "shoulders"
+            ],
+            "components": [
+                "noun",
+                "head",
+                "plant"
+            ]
+        },
+        {
+            "name": "spine",
+            "equivalences": [
+                "spines"
+            ],
+            "components": [
+                "noun",
+                "person",
+                "tree"
+            ]
+        },
+        {
+            "name": "body",
+            "equivalences": [
+                "bodies"
+            ],
+            "components": [
+                "noun",
+                "thing",
+                "person"
+            ]
+        },
+        {
+            "name": "bone",
+            "equivalences": [
+                "bones"
+            ],
+            "components": [
+                "noun",
+                "body",
+                "rock"
+            ]
+        },
+        {
+            "name": "injury",
+            "equivalences": [
+                "wound",
+                "injuries",
+                "wounds"
+            ],
+            "components": [
+                "noun",
+                "Separate",
+                "body"
+            ]
+        },
+        {
+            "name": "mouth",
+            "equivalences": [
+                "mouths"
+            ],
+            "components": [
+                "noun",
+                "Beginning",
+                "river"
+            ]
+        },
+        {
+            "name": "cover",
+            "equivalences": [
+                "lid",
+                "covers",
+                "lids"
+            ],
+            "components": [
+                "noun",
+                "top",
+                "open"
+            ]
+        },
+        {
+            "name": "voice",
+            "equivalences": [
+                "voices"
+            ],
+            "components": [
+                "noun",
+                "speak"
+            ]
+        },
+        {
+            "name": "tongue",
+            "equivalences": [
+                "tongues"
+            ],
+            "components": [
+                "noun",
+                "speak",
+                "person"
+            ]
+        },
+        {
+            "name": "tooth",
+            "equivalences": [
+                "teeth"
+            ],
+            "components": [
+                "noun",
+                "bite",
+                "person"
+            ]
+        },
+        {
+            "name": "arm",
+            "equivalences": [
+                "arms"
+            ],
+            "components": [
+                "noun",
+                "Possession",
+                "person"
+            ]
+        },
+        {
+            "name": "wing",
+            "equivalences": [
+                "wings"
+            ],
+            "components": [
+                "noun",
+                "eagle",
+                "arm"
+            ]
+        },
+        {
+            "name": "beak",
+            "equivalences": [
+                "beaks"
+            ],
+            "components": [
+                "noun",
+                "eagle",
+                "tooth"
+            ]
+        },
+        {
+            "name": "ring",
+            "equivalences": [
+                "rings"
+            ],
+            "components": [
+                "noun",
+                "hand",
+                "Circle"
+            ]
+        },
+        {
+            "name": "prow",
+            "components": [
+                "noun",
+                "front",
+                "boat"
+            ]
+        },
+        {
+            "name": "stern",
+            "components": [
+                "noun",
+                "rear",
+                "boat"
+            ]
+        },
+        {
+            "name": "place",
+            "equivalences": [
+                "places"
+            ],
+            "components": [
+                "noun",
+                "place"
+            ]
+        },
+        {
+            "name": "eye",
+            "equivalences": [
+                "eyes"
+            ],
+            "components": [
+                "noun",
+                "person",
+                "Light"
+            ]
+        },
+        {
+            "name": "ear",
+            "equivalences": [
+                "ears"
+            ],
+            "components": [
+                "noun",
+                "person",
+                "hear"
+            ]
+        },
+        {
+            "name": "face",
+            "equivalences": [
+                "faces"
+            ],
+            "components": [
+                "noun",
+                "person",
+                "Circle"
+            ]
+        },
+        {
+            "name": "smile",
+            "equivalences": [
+                "smiles"
+            ],
+            "components": [
+                "noun",
+                "face",
+                "Light"
+            ]
+        },
+        {
+            "name": "wine",
+            "equivalences": [
+                "raqi"
+            ],
+            "components": [
+                "noun",
+                "drink",
+                "blood"
+            ]
+        },
+        {
+            "name": "finger",
+            "components": [
+                "noun",
+                "1",
+                "hand"
+            ]
+        },
+        {
+            "name": "fingers",
+            "components": [
+                "noun",
+                "5",
+                "hand"
+            ]
+        },
+        {
+            "name": "feet",
+            "equivalences": [
+                "feets"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "leg"
+            ]
+        },
+        {
+            "name": "toe",
+            "components": [
+                "noun",
+                "1",
+                "feet"
+            ]
+        },
+        {
+            "name": "toes",
+            "components": [
+                "noun",
+                "5",
+                "feet"
+            ]
+        },
+        {
+            "name": "crotch",
+            "equivalences": [
+                "groin"
+            ],
+            "components": [
+                "noun",
+                "Join",
+                "leg"
+            ]
+        },
+        {
+            "name": "knee",
+            "equivalences": [
+                "knees"
+            ],
+            "components": [
+                "noun",
+                "corner",
+                "leg"
+            ]
+        },
+        {
+            "name": "entrance",
+            "equivalences": [
+                "door",
+                "doors"
+            ],
+            "components": [
+                "noun",
+                "open"
+            ]
+        },
+        {
+            "name": "shape",
+            "equivalences": [
+                "form",
+                "shapes",
+                "forms"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "Circle"
+            ]
+        },
+        {
+            "name": "gate",
+            "equivalences": [
+                "gates"
+            ],
+            "components": [
+                "noun",
+                "big",
+                "entrance"
+            ]
+        },
+        {
+            "name": "apeture",
+            "components": [
+                "noun",
+                "tiny",
+                "entrance"
+            ]
+        },
+        {
+            "name": "weakness",
+            "components": [
+                "noun",
+                "weak"
+            ]
+        },
+        {
+            "name": "strength",
+            "equivalences": [
+                "might",
+                "strengths"
+            ],
+            "components": [
+                "noun",
+                "strong"
+            ]
+        },
+        {
+            "name": "book",
+            "equivalences": [
+                "books"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "story",
+            "equivalences": [
+                "history",
+                "stories",
+                "tale",
+                "tales"
+            ],
+            "components": [
+                "noun",
+                "past_tense"
+            ]
+        },
+        {
+            "name": "load",
+            "equivalences": [
+                "weight",
+                "loads",
+                "weights"
+            ],
+            "components": [
+                "noun",
+                "of",
+                "Rock"
+            ]
+        },
+        {
+            "name": "day",
+            "equivalences": [
+                "days"
+            ],
+            "components": [
+                "noun",
+                "time",
+                "Circle"
+            ]
+        },
+        {
+            "name": "year",
+            "equivalences": [
+                "years"
+            ],
+            "components": [
+                "noun",
+                "time",
+                "sun"
+            ]
+        },
+        {
+            "name": "night",
+            "equivalences": [
+                "nights"
+            ],
+            "components": [
+                "noun",
+                "past_tense",
+                "day"
+            ]
+        },
+        {
+            "name": "army",
+            "equivalences": [
+                "armies"
+            ],
+            "components": [
+                "noun",
+                "many",
+                "soldier"
+            ]
+        },
+        {
+            "name": "duty",
+            "equivalences": [
+                "duties"
+            ],
+            "components": [
+                "noun",
+                "law",
+                "work"
+            ]
+        },
+        {
+            "name": "house",
+            "equivalences": [
+                "houses"
+            ],
+            "components": [
+                "noun",
+                "home"
+            ]
+        },
+        {
+            "name": "building",
+            "equivalences": [
+                "buildings"
+            ],
+            "components": [
+                "noun",
+                "rock",
+                "home"
+            ]
+        },
+        {
+            "name": "eternity",
+            "components": [
+                "noun",
+                "forever"
+            ]
+        },
+        {
+            "name": "word",
+            "equivalences": [
+                "symbol",
+                "words",
+                "symbols"
+            ],
+            "components": [
+                "noun",
+                "written"
+            ]
+        },
+        {
+            "name": "hopper",
+            "equivalences": [
+                "hoppers"
+            ],
+            "components": [
+                "noun",
+                "vault"
+            ]
+        },
+        {
+            "name": "explosion",
+            "equivalences": [
+                "explosions"
+            ],
+            "components": [
+                "noun",
+                "big",
+                "fire"
+            ]
+        },
+        {
+            "name": "song",
+            "equivalences": [
+                "songs"
+            ],
+            "components": [
+                "noun",
+                "music"
+            ]
+        },
+        {
+            "name": "system",
+            "equivalences": [
+                "process",
+                "processes",
+                "systems"
+            ],
+            "components": [
+                "noun",
+                "go",
+                "alone"
+            ]
+        },
+        {
+            "name": "key",
+            "equivalences": [
+                "keys"
+            ],
+            "components": [
+                "noun",
+                "tooth",
+                "place"
+            ]
+        },
+        {
+            "name": "birth",
+            "equivalences": [
+                "births"
+            ],
+            "components": [
+                "noun",
+                "start",
+                "person"
+            ]
+        },
+        {
+            "name": "box",
+            "equivalences": [
+                "container",
+                "barrel",
+                "boxes",
+                "containers",
+                "barrels"
+            ],
+            "components": [
+                "noun",
+                "hold",
+                "narrow"
+            ]
+        },
+        {
+            "name": "finder",
+            "equivalences": [
+                "finders"
+            ],
+            "components": [
+                "person",
+                "find"
+            ]
+        },
+        {
+            "name": "seeker",
+            "equivalences": [
+                "seekers"
+            ],
+            "components": [
+                "person",
+                "seek"
+            ]
+        },
+        {
+            "name": "coward",
+            "equivalences": [
+                "cowards"
+            ],
+            "components": [
+                "person",
+                "fear"
+            ]
+        },
+        {
+            "name": "thief",
+            "equivalences": [
+                "thieves"
+            ],
+            "components": [
+                "person",
+                "steal"
+            ]
+        },
+        {
+            "name": "Goddess",
+            "equivalences": [
+                "God",
+                "Goddesses",
+                "Gods"
+            ],
+            "components": [
+                "person",
+                "knowledge"
+            ]
+        },
+        {
+            "name": "potter",
+            "equivalences": [
+                "potters"
+            ],
+            "components": [
+                "person",
+                "clay"
+            ]
+        },
+        {
+            "name": "craftsman",
+            "equivalences": [
+                "craftsmen",
+                "craftswoman",
+                "craftswomen",
+                "carpenter",
+                "carpenters"
+            ],
+            "components": [
+                "person",
+                "wood"
+            ]
+        },
+        {
+            "name": "king",
+            "equivalences": [
+                "queen",
+                "kings",
+                "queens"
+            ],
+            "components": [
+                "person",
+                "Truth"
+            ]
+        },
+        {
+            "name": "prince",
+            "equivalences": [
+                "princess",
+                "princes",
+                "princesses"
+            ],
+            "components": [
+                "person",
+                "should",
+                "king"
+            ]
+        },
+        {
+            "name": "Emperor",
+            "equivalences": [
+                "Empress",
+                "Emperors",
+                "Empresses"
+            ],
+            "components": [
+                "person",
+                "law"
+            ]
+        },
+        {
+            "name": "soldier",
+            "equivalences": [
+                "soldiers"
+            ],
+            "components": [
+                "person",
+                "kill"
+            ]
+        },
+        {
+            "name": "captain",
+            "equivalences": [
+                "captains"
+            ],
+            "components": [
+                "person",
+                "Possession",
+                "boat"
+            ]
+        },
+        {
+            "name": "swindler",
+            "equivalences": [
+                "criminal",
+                "swindlers",
+                "criminals"
+            ],
+            "components": [
+                "person",
+                "not",
+                "law"
+            ]
+        },
+        {
+            "name": "citizen",
+            "equivalences": [
+                "sailor",
+                "citizens",
+                "sailors"
+            ],
+            "components": [
+                "person",
+                "of",
+                "boat"
+            ]
+        },
+        {
+            "name": "no-one",
+            "components": [
+                "person",
+                "0"
+            ]
+        },
+        {
+            "name": "me",
+            "equivalences": [
+                "myself",
+                "I"
+            ],
+            "components": [
+                "person",
+                "1"
+            ]
+        },
+        {
+            "name": "you",
+            "equivalences": [
+                "yourself"
+            ],
+            "components": [
+                "person",
+                "2"
+            ]
+        },
+        {
+            "name": "it",
+            "equivalences": [
+                "itself"
+            ],
+            "components": [
+                "person",
+                "creature"
+            ]
+        },
+        {
+            "name": "they",
+            "equivalences": [
+                "she",
+                "he",
+                "him",
+                "himself",
+                "her",
+                "herself"
+            ],
+            "components": [
+                "person",
+                "3"
+            ]
+        },
+        {
+            "name": "we",
+            "equivalences": [
+                "us",
+                "ourselves"
+            ],
+            "components": [
+                "person",
+                "many",
+                "me"
+            ]
+        },
+        {
+            "name": "them",
+            "components": [
+                "person",
+                "many",
+                "you"
+            ]
+        },
+        {
+            "name": "giver",
+            "equivalences": [
+                "bringer"
+            ],
+            "components": [
+                "person",
+                "give"
+            ]
+        },
+        {
+            "name": "wife",
+            "equivalences": [
+                "husband"
+            ],
+            "components": [
+                "person",
+                "Possession"
+            ]
+        },
+        {
+            "name": "friend",
+            "equivalences": [
+                "beloved",
+                "friends"
+            ],
+            "components": [
+                "person",
+                "love"
+            ]
+        },
+        {
+            "name": "enemy",
+            "equivalences": [
+                "enemies"
+            ],
+            "components": [
+                "person",
+                "hate"
+            ]
+        },
+        {
+            "name": "stranger",
+            "equivalences": [
+                "newcomer"
+            ],
+            "components": [
+                "person",
+                "not",
+                "friend"
+            ]
+        },
+        {
+            "name": "seller",
+            "equivalences": [
+                "trader",
+                "merchant",
+                "sellers",
+                "traders",
+                "merchants"
+            ],
+            "components": [
+                "person",
+                "sell"
+            ]
+        },
+        {
+            "name": "nomad",
+            "equivalences": [
+                "walker",
+                "nomads"
+            ],
+            "components": [
+                "person",
+                "walk"
+            ]
+        },
+        {
+            "name": "child",
+            "equivalences": [
+                "children"
+            ],
+            "components": [
+                "person",
+                "new"
+            ]
+        },
+        {
+            "name": "elder",
+            "equivalences": [
+                "elders"
+            ],
+            "components": [
+                "person",
+                "ancient"
+            ]
+        },
+        {
+            "name": "family",
+            "components": [
+                "person",
+                "Possession",
+                "many"
+            ]
+        },
+        {
+            "name": "parent",
+            "equivalences": [
+                "father",
+                "mother",
+                "parents",
+                "fathers",
+                "mothers"
+            ],
+            "components": [
+                "person",
+                "Possession",
+                "new"
+            ]
+        },
+        {
+            "name": "son",
+            "equivalences": [
+                "daughter",
+                "sons",
+                "daughters"
+            ],
+            "components": [
+                "person",
+                "new",
+                "Possession"
+            ]
+        },
+        {
+            "name": "slave",
+            "equivalences": [
+                "slaves"
+            ],
+            "components": [
+                "person",
+                "robot"
+            ]
+        },
+        {
+            "name": "pilgrim",
+            "equivalences": [
+                "pilgrims"
+            ],
+            "components": [
+                "person",
+                "go",
+                "temple"
+            ]
+        },
+        {
+            "name": "watcher",
+            "equivalences": [
+                "observer",
+                "watchers",
+                "observers"
+            ],
+            "components": [
+                "person",
+                "watch"
+            ]
+        },
+        {
+            "name": "overseer",
+            "equivalences": [
+                "master",
+                "overseers",
+                "masters"
+            ],
+            "components": [
+                "person",
+                "robot",
+                "judge"
+            ]
+        },
+        {
+            "name": "healer",
+            "equivalences": [
+                "doctor",
+                "healers",
+                "doctors"
+            ],
+            "components": [
+                "person",
+                "heal"
+            ]
+        },
+        {
+            "name": "owner",
+            "equivalences": [
+                "owners"
+            ],
+            "components": [
+                "person",
+                "Possession",
+                "noun"
+            ]
+        },
+        {
+            "name": "guardian",
+            "equivalences": [
+                "guardians"
+            ],
+            "components": [
+                "person",
+                "defend",
+                "of"
+            ]
+        },
+        {
+            "name": "sleeper",
+            "equivalences": [
+                "sleepers"
+            ],
+            "components": [
+                "person",
+                "sleep"
+            ]
+        },
+        {
+            "name": "follower",
+            "equivalences": [
+                "acolyte",
+                "followers",
+                "acolytes"
+            ],
+            "components": [
+                "person",
+                "follow"
+            ]
+        },
+        {
+            "name": "scribe",
+            "equivalences": [
+                "writer",
+                "scribes",
+                "writers"
+            ],
+            "components": [
+                "person",
+                "write"
+            ]
+        },
+        {
+            "name": "artist",
+            "equivalences": [
+                "painter",
+                "artists",
+                "painters"
+            ],
+            "components": [
+                "person",
+                "draw"
+            ]
+        },
+        {
+            "name": "architect",
+            "equivalences": [
+                "architects"
+            ],
+            "components": [
+                "person",
+                "write",
+                "place"
+            ]
+        },
+        {
+            "name": "designer",
+            "equivalences": [
+                "designers"
+            ],
+            "components": [
+                "person",
+                "intend"
+            ]
+        },
+        {
+            "name": "leader",
+            "equivalences": [
+                "leaders"
+            ],
+            "components": [
+                "person",
+                "lead"
+            ]
+        },
+        {
+            "name": "cutter",
+            "equivalences": [
+                "slicer",
+                "cutters",
+                "slicers"
+            ],
+            "components": [
+                "person",
+                "sever"
+            ]
+        },
+        {
+            "name": "crusher",
+            "equivalences": [
+                "destroyer",
+                "crushers",
+                "destroyers"
+            ],
+            "components": [
+                "person",
+                "destroy"
+            ]
+        },
+        {
+            "name": "teacher",
+            "equivalences": [
+                "teachers"
+            ],
+            "components": [
+                "person",
+                "explain"
+            ]
+        },
+        {
+            "name": "scholar",
+            "equivalences": [
+                "scholars"
+            ],
+            "components": [
+                "person",
+                "think"
+            ]
+        },
+        {
+            "name": "musician",
+            "equivalences": [
+                "musicians"
+            ],
+            "components": [
+                "person",
+                "of",
+                "music"
+            ]
+        },
+        {
+            "name": "singer",
+            "equivalences": [
+                "singers"
+            ],
+            "components": [
+                "person",
+                "of",
+                "song"
+            ]
+        },
+        {
+            "name": "traitor",
+            "equivalences": [
+                "traitors"
+            ],
+            "components": [
+                "person",
+                "betray"
+            ]
+        },
+        {
+            "name": "gardener",
+            "equivalences": [
+                "gardeners"
+            ],
+            "components": [
+                "person",
+                "garden"
+            ]
+        },
+        {
+            "name": "everywhere",
+            "components": [
+                "place",
+                "all"
+            ]
+        },
+        {
+            "name": "space",
+            "components": [
+                "place",
+                "not",
+                "star"
+            ]
+        },
+        {
+            "name": "sky",
+            "equivalences": [
+                "skies",
+                "heaven",
+                "heavens"
+            ],
+            "components": [
+                "place",
+                "star"
+            ]
+        },
+        {
+            "name": "nowhere",
+            "components": [
+                "place",
+                "not",
+                "place"
+            ]
+        },
+        {
+            "name": "temple",
+            "equivalences": [
+                "temples"
+            ],
+            "components": [
+                "place",
+                "Goddess"
+            ]
+        },
+        {
+            "name": "sun",
+            "equivalences": [
+                "suns"
+            ],
+            "components": [
+                "place",
+                "Light",
+                "Circle"
+            ]
+        },
+        {
+            "name": "moon",
+            "equivalences": [
+                "world",
+                "moons",
+                "worlds"
+            ],
+            "components": [
+                "place",
+                "Life",
+                "Circle"
+            ]
+        },
+        {
+            "name": "site",
+            "equivalences": [
+                "ground",
+                "sites",
+                "grounds"
+            ],
+            "components": [
+                "place",
+                "Rock"
+            ]
+        },
+        {
+            "name": "floor",
+            "equivalences": [
+                "floors"
+            ],
+            "components": [
+                "place",
+                "house",
+                "site"
+            ]
+        },
+        {
+            "name": "palace",
+            "equivalences": [
+                "palaces"
+            ],
+            "components": [
+                "place",
+                "Emperor"
+            ]
+        },
+        {
+            "name": "home",
+            "equivalences": [
+                "homes"
+            ],
+            "components": [
+                "place",
+                "Life"
+            ]
+        },
+        {
+            "name": "here",
+            "components": [
+                "place",
+                "me"
+            ]
+        },
+        {
+            "name": "tomb",
+            "equivalences": [
+                "graveyard",
+                "grave",
+                "tombs",
+                "graveyards",
+                "graves"
+            ],
+            "components": [
+                "place",
+                "death"
+            ]
+        },
+        {
+            "name": "there",
+            "components": [
+                "place",
+                "you"
+            ]
+        },
+        {
+            "name": "market",
+            "equivalences": [
+                "markets"
+            ],
+            "components": [
+                "place",
+                "seller"
+            ]
+        },
+        {
+            "name": "village",
+            "equivalences": [
+                "villages"
+            ],
+            "components": [
+                "place",
+                "people"
+            ]
+        },
+        {
+            "name": "city",
+            "equivalences": [
+                "cities"
+            ],
+            "components": [
+                "place",
+                "big",
+                "village"
+            ]
+        },
+        {
+            "name": "front",
+            "components": [
+                "place",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "rear",
+            "equivalences": [
+                "back"
+            ],
+            "components": [
+                "place",
+                "not",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "top",
+            "components": [
+                "place",
+                "High"
+            ]
+        },
+        {
+            "name": "bottom",
+            "components": [
+                "place",
+                "not",
+                "High"
+            ]
+        },
+        {
+            "name": "between",
+            "equivalences": [
+                "among",
+                "amongst",
+                "alongside"
+            ],
+            "components": [
+                "place",
+                "of"
+            ]
+        },
+        {
+            "name": "ocean",
+            "equivalences": [
+                "sea",
+                "oceans",
+                "seas"
+            ],
+            "components": [
+                "place",
+                "many",
+                "Water"
+            ]
+        },
+        {
+            "name": "mine",
+            "equivalences": [
+                "mines"
+            ],
+            "components": [
+                "place",
+                "Separate",
+                "Rock"
+            ]
+        },
+        {
+            "name": "observatory",
+            "equivalences": [
+                "observatories"
+            ],
+            "components": [
+                "place",
+                "watch"
+            ]
+        },
+        {
+            "name": "garden",
+            "equivalences": [
+                "gardens"
+            ],
+            "components": [
+                "place",
+                "plant"
+            ]
+        },
+        {
+            "name": "field",
+            "equivalences": [
+                "fields"
+            ],
+            "components": [
+                "place",
+                "grass"
+            ]
+        },
+        {
+            "name": "corner",
+            "equivalences": [
+                "bend",
+                "corners",
+                "bends"
+            ],
+            "components": [
+                "place",
+                "path",
+                "Circle"
+            ]
+        },
+        {
+            "name": "orchard",
+            "equivalences": [
+                "orchards"
+            ],
+            "components": [
+                "place",
+                "tree"
+            ]
+        },
+        {
+            "name": "war",
+            "equivalences": [
+                "wars"
+            ],
+            "components": [
+                "place",
+                "fight"
+            ]
+        },
+        {
+            "name": "peace",
+            "equivalences": [
+                "peaces"
+            ],
+            "components": [
+                "place",
+                "not",
+                "fight"
+            ]
+        },
+        {
+            "name": "Empire",
+            "equivalences": [
+                "Empires"
+            ],
+            "components": [
+                "place",
+                "Emperor",
+                "people"
+            ]
+        },
+        {
+            "name": "well",
+            "equivalences": [
+                "spring",
+                "wellspring",
+                "wells",
+                "springs",
+                "wellsprings"
+            ],
+            "components": [
+                "place",
+                "low",
+                "Water"
+            ]
+        },
+        {
+            "name": "source",
+            "equivalences": [
+                "sources"
+            ],
+            "components": [
+                "place",
+                "noun",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "library",
+            "equivalences": [
+                "libraries"
+            ],
+            "components": [
+                "place",
+                "book"
+            ]
+        },
+        {
+            "name": "destination",
+            "equivalences": [
+                "destinations"
+            ],
+            "components": [
+                "place",
+                "go"
+            ]
+        },
+        {
+            "name": "port",
+            "equivalences": [
+                "harbour",
+                "haven",
+                "station",
+                "ports",
+                "harbours",
+                "havens",
+                "stations"
+            ],
+            "components": [
+                "place",
+                "not",
+                "Motion"
+            ]
+        },
+        {
+            "name": "twist",
+            "equivalences": [
+                "turn",
+                "twists",
+                "turns"
+            ],
+            "components": [
+                "verb",
+                "corner"
+            ]
+        },
+        {
+            "name": "turned",
+            "components": [
+                "verb",
+                "past_tense",
+                "twist"
+            ]
+        },
+        {
+            "name": "grin",
+            "equivalences": [
+                "grins"
+            ],
+            "components": [
+                "verb",
+                "smile"
+            ]
+        },
+        {
+            "name": "grinned",
+            "equivalences": [
+                "smiled"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "grin"
+            ]
+        },
+        {
+            "name": "etch",
+            "equivalences": [
+                "etches"
+            ],
+            "components": [
+                "verb",
+                "print"
+            ]
+        },
+        {
+            "name": "etched",
+            "components": [
+                "verb",
+                "past_tense",
+                "etch"
+            ]
+        },
+        {
+            "name": "call",
+            "equivalences": [
+                "calls"
+            ],
+            "components": [
+                "verb",
+                "name"
+            ]
+        },
+        {
+            "name": "called",
+            "components": [
+                "verb",
+                "past_tense",
+                "call"
+            ]
+        },
+        {
+            "name": "intend",
+            "equivalences": [
+                "plan",
+                "design",
+                "intends",
+                "plans",
+                "designs"
+            ],
+            "components": [
+                "verb",
+                "speak",
+                "shape"
+            ]
+        },
+        {
+            "name": "intended",
+            "equivalences": [
+                "planned",
+                "designed",
+                "meant"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "intend"
+            ]
+        },
+        {
+            "name": "strike",
+            "equivalences": [
+                "hit",
+                "strikes",
+                "hits"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "weapon"
+            ]
+        },
+        {
+            "name": "struck",
+            "components": [
+                "verb",
+                "past_tense",
+                "strike"
+            ]
+        },
+        {
+            "name": "enjoy",
+            "equivalences": [
+                "enjoys"
+            ],
+            "components": [
+                "verb",
+                "joy"
+            ]
+        },
+        {
+            "name": "enjoyed",
+            "components": [
+                "verb",
+                "past_tense",
+                "enjoy"
+            ]
+        },
+        {
+            "name": "shine",
+            "equivalences": [
+                "glow",
+                "shines",
+                "glows"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "Light"
+            ]
+        },
+        {
+            "name": "shone",
+            "equivalences": [
+                "glowed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "shine"
+            ]
+        },
+        {
+            "name": "kneel",
+            "equivalences": [
+                "kneels"
+            ],
+            "components": [
+                "verb",
+                "low",
+                "knee"
+            ]
+        },
+        {
+            "name": "kneeled",
+            "components": [
+                "verb",
+                "past_tense",
+                "kneel"
+            ]
+        },
+        {
+            "name": "explode",
+            "equivalences": [
+                "explodes"
+            ],
+            "components": [
+                "verb",
+                "explosion"
+            ]
+        },
+        {
+            "name": "exploded",
+            "components": [
+                "verb",
+                "past_tense",
+                "explode"
+            ]
+        },
+        {
+            "name": "choose",
+            "equivalences": [
+                "decide",
+                "chooses",
+                "decides"
+            ],
+            "components": [
+                "verb",
+                "Truth",
+                "Motion"
+            ]
+        },
+        {
+            "name": "chose",
+            "equivalences": [
+                "decided"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "choose"
+            ]
+        },
+        {
+            "name": "judge",
+            "equivalences": [
+                "judges"
+            ],
+            "components": [
+                "verb",
+                "choose",
+                "person"
+            ]
+        },
+        {
+            "name": "judged",
+            "components": [
+                "verb",
+                "past_tense",
+                "judge"
+            ]
+        },
+        {
+            "name": "rule",
+            "equivalences": [
+                "rules"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "law"
+            ]
+        },
+        {
+            "name": "ruled",
+            "components": [
+                "verb",
+                "past_tense",
+                "rule"
+            ]
+        },
+        {
+            "name": "create",
+            "equivalences": [
+                "invent",
+                "creates",
+                "invents"
+            ],
+            "components": [
+                "verb",
+                "Knowledge",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "created",
+            "equivalences": [
+                "invented"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "create"
+            ]
+        },
+        {
+            "name": "blow",
+            "equivalences": [
+                "blows"
+            ],
+            "components": [
+                "verb",
+                "wind"
+            ]
+        },
+        {
+            "name": "blowed",
+            "components": [
+                "verb",
+                "past_tense",
+                "blow"
+            ]
+        },
+        {
+            "name": "use",
+            "equivalences": [
+                "uses"
+            ],
+            "components": [
+                "verb",
+                "act",
+                "noun"
+            ]
+        },
+        {
+            "name": "used",
+            "components": [
+                "verb",
+                "past_tense",
+                "use"
+            ]
+        },
+        {
+            "name": "separate",
+            "equivalences": [
+                "part",
+                "divide",
+                "separates",
+                "parts",
+                "divides"
+            ],
+            "components": [
+                "verb",
+                "Separate"
+            ]
+        },
+        {
+            "name": "separated",
+            "equivalences": [
+                "parted",
+                "divided"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "separate"
+            ]
+        },
+        {
+            "name": "tie",
+            "equivalences": [
+                "bind",
+                "ties",
+                "binds"
+            ],
+            "components": [
+                "verb",
+                "rope"
+            ]
+        },
+        {
+            "name": "bound",
+            "components": [
+                "verb",
+                "past_tense",
+                "tie"
+            ]
+        },
+        {
+            "name": "sleep",
+            "equivalences": [
+                "rest",
+                "sleeps",
+                "rests"
+            ],
+            "components": [
+                "verb",
+                "wish"
+            ]
+        },
+        {
+            "name": "slept",
+            "equivalences": [
+                "rested"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "sleep"
+            ]
+        },
+        {
+            "name": "wake",
+            "equivalences": [
+                "wakes"
+            ],
+            "components": [
+                "verb",
+                "end",
+                "sleep"
+            ]
+        },
+        {
+            "name": "woke",
+            "components": [
+                "verb",
+                "past_tense",
+                "wake"
+            ]
+        },
+        {
+            "name": "comfort",
+            "equivalences": [
+                "console",
+                "comforts",
+                "consoles"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "love"
+            ]
+        },
+        {
+            "name": "comforted",
+            "equivalences": [
+                "consoled"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "comfort"
+            ]
+        },
+        {
+            "name": "itch",
+            "equivalences": [
+                "itches",
+                "scratch",
+                "scratches"
+            ],
+            "components": [
+                "verb",
+                "Possession",
+                "fire"
+            ]
+        },
+        {
+            "name": "scratched",
+            "equivalences": [
+                "itched"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "itch"
+            ]
+        },
+        {
+            "name": "outlive",
+            "equivalences": [
+                "outlives"
+            ],
+            "components": [
+                "verb",
+                "live",
+                "further"
+            ]
+        },
+        {
+            "name": "outlived",
+            "components": [
+                "verb",
+                "past_tense",
+                "outlive"
+            ]
+        },
+        {
+            "name": "eat",
+            "equivalences": [
+                "eats"
+            ],
+            "components": [
+                "verb",
+                "Food"
+            ]
+        },
+        {
+            "name": "eaten",
+            "components": [
+                "verb",
+                "past_tense",
+                "eat"
+            ]
+        },
+        {
+            "name": "starve",
+            "equivalences": [
+                "starves"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "eat"
+            ]
+        },
+        {
+            "name": "starved",
+            "components": [
+                "verb",
+                "past_tense",
+                "starve"
+            ]
+        },
+        {
+            "name": "corrupt",
+            "equivalences": [
+                "corrupts"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "poison"
+            ]
+        },
+        {
+            "name": "corrupted",
+            "components": [
+                "verb",
+                "past_tense",
+                "corrupt"
+            ]
+        },
+        {
+            "name": "feed",
+            "equivalences": [
+                "feeds"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "Food"
+            ]
+        },
+        {
+            "name": "fed",
+            "components": [
+                "verb",
+                "past_tense",
+                "feed"
+            ]
+        },
+        {
+            "name": "bite",
+            "equivalences": [
+                "bites"
+            ],
+            "components": [
+                "verb",
+                "Separate",
+                "Food"
+            ]
+        },
+        {
+            "name": "bitten",
+            "components": [
+                "verb",
+                "past_tense",
+                "bite"
+            ]
+        },
+        {
+            "name": "sever",
+            "equivalences": [
+                "cut",
+                "slice",
+                "break",
+                "severs",
+                "cuts",
+                "slices",
+                "breaks"
+            ],
+            "components": [
+                "verb",
+                "Heat",
+                "Separate"
+            ]
+        },
+        {
+            "name": "severed",
+            "equivalences": [
+                "sliced",
+                "broke",
+                "tore"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "sever"
+            ]
+        },
+        {
+            "name": "harm",
+            "equivalences": [
+                "hurt",
+                "harms",
+                "hurts"
+            ],
+            "components": [
+                "verb",
+                "injury"
+            ]
+        },
+        {
+            "name": "harmed",
+            "equivalences": [
+                "wounded"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "harm"
+            ]
+        },
+        {
+            "name": "suffer",
+            "equivalences": [
+                "suffers"
+            ],
+            "components": [
+                "verb",
+                "Possession",
+                "harm"
+            ]
+        },
+        {
+            "name": "suffered",
+            "components": [
+                "verb",
+                "past_tense",
+                "suffer"
+            ]
+        },
+        {
+            "name": "destroy",
+            "equivalences": [
+                "crush",
+                "destroys",
+                "crushes"
+            ],
+            "components": [
+                "verb",
+                "all",
+                "sever"
+            ]
+        },
+        {
+            "name": "destroyed",
+            "equivalences": [
+                "crushed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "destroy"
+            ]
+        },
+        {
+            "name": "arrive",
+            "equivalences": [
+                "enter",
+                "land",
+                "dock",
+                "arrives",
+                "enters",
+                "lands",
+                "docks"
+            ],
+            "components": [
+                "verb",
+                "site",
+                "Motion"
+            ]
+        },
+        {
+            "name": "landed",
+            "equivalences": [
+                "docked",
+                "arrived"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "arrive"
+            ]
+        },
+        {
+            "name": "bless",
+            "equivalences": [
+                "blesses"
+            ],
+            "components": [
+                "verb",
+                "of",
+                "Goddess"
+            ]
+        },
+        {
+            "name": "blessed",
+            "components": [
+                "verb",
+                "past_tense",
+                "bless"
+            ]
+        },
+        {
+            "name": "praise",
+            "equivalences": [
+                "praises"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "gratitude"
+            ]
+        },
+        {
+            "name": "praised",
+            "components": [
+                "verb",
+                "past_tense",
+                "praise"
+            ]
+        },
+        {
+            "name": "pray",
+            "equivalences": [
+                "prays"
+            ],
+            "components": [
+                "verb",
+                "Say",
+                "Goddess"
+            ]
+        },
+        {
+            "name": "prayed",
+            "components": [
+                "verb",
+                "past_tense",
+                "pray"
+            ]
+        },
+        {
+            "name": "want",
+            "equivalences": [
+                "need",
+                "wants",
+                "needs"
+            ],
+            "components": [
+                "verb",
+                "Possession",
+                "not"
+            ]
+        },
+        {
+            "name": "wanted",
+            "equivalences": [
+                "needed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "want"
+            ]
+        },
+        {
+            "name": "demand",
+            "equivalences": [
+                "demands"
+            ],
+            "components": [
+                "verb",
+                "Say",
+                "want"
+            ]
+        },
+        {
+            "name": "demanded",
+            "components": [
+                "verb",
+                "past_tense",
+                "demand"
+            ]
+        },
+        {
+            "name": "shout",
+            "equivalences": [
+                "cry",
+                "sing",
+                "shouts",
+                "crys",
+                "sings"
+            ],
+            "components": [
+                "verb",
+                "music"
+            ]
+        },
+        {
+            "name": "sang",
+            "equivalences": [
+                "cried"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "shout"
+            ]
+        },
+        {
+            "name": "laugh",
+            "equivalences": [
+                "laughs"
+            ],
+            "components": [
+                "verb",
+                "song",
+                "happy"
+            ]
+        },
+        {
+            "name": "laughed",
+            "components": [
+                "verb",
+                "past_tense",
+                "laugh"
+            ]
+        },
+        {
+            "name": "weep",
+            "equivalences": [
+                "wept",
+                "weeps"
+            ],
+            "components": [
+                "verb",
+                "water",
+                "unhappy"
+            ]
+        },
+        {
+            "name": "weeped",
+            "components": [
+                "verb",
+                "past_tense",
+                "weep"
+            ]
+        },
+        {
+            "name": "toast",
+            "equivalences": [
+                "toasts"
+            ],
+            "components": [
+                "verb",
+                "love",
+                "drink"
+            ]
+        },
+        {
+            "name": "toasted",
+            "components": [
+                "verb",
+                "past_tense",
+                "toast"
+            ]
+        },
+        {
+            "name": "sin",
+            "components": [
+                "verb",
+                "Goddess",
+                "Separate"
+            ]
+        },
+        {
+            "name": "sinned",
+            "components": [
+                "verb",
+                "past_tense",
+                "sin"
+            ]
+        },
+        {
+            "name": "speak",
+            "equivalences": [
+                "talk",
+                "tell",
+                "say",
+                "speaks",
+                "talks",
+                "tells"
+            ],
+            "components": [
+                "verb",
+                "Say"
+            ]
+        },
+        {
+            "name": "spoke",
+            "equivalences": [
+                "said",
+                "talked",
+                "told"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "speak"
+            ]
+        },
+        {
+            "name": "declare",
+            "equivalences": [
+                "order",
+                "instruct",
+                "command",
+                "claim",
+                "declares",
+                "orders",
+                "instructs",
+                "commands",
+                "claims"
+            ],
+            "components": [
+                "verb",
+                "Rock",
+                "lead"
+            ]
+        },
+        {
+            "name": "declared",
+            "equivalences": [
+                "claimed",
+                "ordered",
+                "commanded",
+                "instructed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "declare"
+            ]
+        },
+        {
+            "name": "release",
+            "equivalences": [
+                "liberate",
+                "releases",
+                "liberates"
+            ],
+            "components": [
+                "verb",
+                "freedom"
+            ]
+        },
+        {
+            "name": "released",
+            "equivalences": [
+                "liberated"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "release"
+            ]
+        },
+        {
+            "name": "escape",
+            "equivalences": [
+                "escapes"
+            ],
+            "components": [
+                "verb",
+                "freedom",
+                "Motion"
+            ]
+        },
+        {
+            "name": "escaped",
+            "components": [
+                "verb",
+                "past_tense",
+                "escape"
+            ]
+        },
+        {
+            "name": "begin",
+            "equivalences": [
+                "begins"
+            ],
+            "components": [
+                "verb",
+                "start"
+            ]
+        },
+        {
+            "name": "began",
+            "components": [
+                "verb",
+                "past_tense",
+                "begin"
+            ]
+        },
+        {
+            "name": "cease",
+            "equivalences": [
+                "finish",
+                "finishes",
+                "stop",
+                "complete",
+                "ceases",
+                "stops",
+                "completes"
+            ],
+            "components": [
+                "verb",
+                "end"
+            ]
+        },
+        {
+            "name": "completed",
+            "equivalences": [
+                "stopped",
+                "ended",
+                "finished",
+                "ceased"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "cease"
+            ]
+        },
+        {
+            "name": "hold",
+            "equivalences": [
+                "contain",
+                "reclaim",
+                "has",
+                "carry",
+                "keep",
+                "have",
+                "own",
+                "grasp",
+                "take",
+                "get",
+                "holds",
+                "contains",
+                "reclaims",
+                "keeps",
+                "grasps",
+                "takes",
+                "gets"
+            ],
+            "components": [
+                "verb",
+                "Possession"
+            ]
+        },
+        {
+            "name": "owned",
+            "equivalences": [
+                "carried",
+                "kept",
+                "contained",
+                "reclaimed",
+                "held",
+                "grasped",
+                "took",
+                "taken",
+                "got"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "hold"
+            ]
+        },
+        {
+            "name": "steal",
+            "equivalences": [
+                "steals"
+            ],
+            "components": [
+                "verb",
+                "snake",
+                "hold"
+            ]
+        },
+        {
+            "name": "stole",
+            "components": [
+                "verb",
+                "past_tense",
+                "steal"
+            ]
+        },
+        {
+            "name": "collect",
+            "equivalences": [
+                "gather",
+                "collects",
+                "gathers"
+            ],
+            "components": [
+                "verb",
+                "hold",
+                "many"
+            ]
+        },
+        {
+            "name": "gathered",
+            "equivalences": [
+                "collected"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "collect"
+            ]
+        },
+        {
+            "name": "reach",
+            "equivalences": [
+                "reaches"
+            ],
+            "components": [
+                "verb",
+                "hold",
+                "away"
+            ]
+        },
+        {
+            "name": "reached",
+            "components": [
+                "verb",
+                "past_tense",
+                "reach"
+            ]
+        },
+        {
+            "name": "lose",
+            "equivalences": [
+                "drop",
+                "has-not",
+                "loses",
+                "drops"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "Possession"
+            ]
+        },
+        {
+            "name": "dropped",
+            "components": [
+                "verb",
+                "past_tense",
+                "lose"
+            ]
+        },
+        {
+            "name": "sell",
+            "equivalences": [
+                "trade",
+                "sells",
+                "trades"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "Possession"
+            ]
+        },
+        {
+            "name": "sold",
+            "equivalences": [
+                "traded"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "sell"
+            ]
+        },
+        {
+            "name": "buy",
+            "equivalences": [
+                "buys"
+            ],
+            "components": [
+                "verb",
+                "Possession",
+                "hold"
+            ]
+        },
+        {
+            "name": "bought",
+            "components": [
+                "verb",
+                "past_tense",
+                "buy"
+            ]
+        },
+        {
+            "name": "give",
+            "equivalences": [
+                "present",
+                "bring",
+                "provide",
+                "offer",
+                "gives",
+                "presents",
+                "brings",
+                "provides",
+                "offers"
+            ],
+            "components": [
+                "verb",
+                "toward",
+                "person",
+                "Possession"
+            ]
+        },
+        {
+            "name": "gave",
+            "equivalences": [
+                "given",
+                "provided",
+                "offered",
+                "presented"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "give"
+            ]
+        },
+        {
+            "name": "share",
+            "equivalences": [
+                "shares"
+            ],
+            "components": [
+                "verb",
+                "Motion",
+                "Possession",
+                "many"
+            ]
+        },
+        {
+            "name": "shared",
+            "components": [
+                "verb",
+                "past_tense",
+                "share"
+            ]
+        },
+        {
+            "name": "wed",
+            "equivalences": [
+                "marry",
+                "marries"
+            ],
+            "components": [
+                "verb",
+                "share",
+                "Life"
+            ]
+        },
+        {
+            "name": "wedded",
+            "equivalences": [
+                "married"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "wed"
+            ]
+        },
+        {
+            "name": "go",
+            "equivalences": [
+                "move",
+                "travel",
+                "goes",
+                "moves",
+                "travels"
+            ],
+            "components": [
+                "verb",
+                "Motion"
+            ]
+        },
+        {
+            "name": "went",
+            "equivalences": [
+                "travelled"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "go"
+            ]
+        },
+        {
+            "name": "push",
+            "equivalences": [
+                "send",
+                "throw",
+                "pushes",
+                "sends",
+                "throws"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "Motion"
+            ]
+        },
+        {
+            "name": "pushed",
+            "equivalences": [
+                "sent",
+                "threw"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "push"
+            ]
+        },
+        {
+            "name": "swing",
+            "equivalences": [
+                "swings"
+            ],
+            "components": [
+                "verb",
+                "Circle",
+                "push"
+            ]
+        },
+        {
+            "name": "swung",
+            "components": [
+                "verb",
+                "past_tense",
+                "swing"
+            ]
+        },
+        {
+            "name": "poke",
+            "equivalences": [
+                "pokes"
+            ],
+            "components": [
+                "verb",
+                "finger",
+                "push"
+            ]
+        },
+        {
+            "name": "poked",
+            "components": [
+                "verb",
+                "past_tense",
+                "poke"
+            ]
+        },
+        {
+            "name": "banish",
+            "equivalences": [
+                "banishes"
+            ],
+            "components": [
+                "verb",
+                "push",
+                "outside"
+            ]
+        },
+        {
+            "name": "banished",
+            "components": [
+                "verb",
+                "past_tense",
+                "banish"
+            ]
+        },
+        {
+            "name": "return",
+            "equivalences": [
+                "returns"
+            ],
+            "components": [
+                "verb",
+                "rear",
+                "go"
+            ]
+        },
+        {
+            "name": "returned",
+            "components": [
+                "verb",
+                "past_tense",
+                "return"
+            ]
+        },
+        {
+            "name": "illuminate",
+            "equivalences": [
+                "illuminates"
+            ],
+            "components": [
+                "verb",
+                "Light"
+            ]
+        },
+        {
+            "name": "lit",
+            "components": [
+                "verb",
+                "past_tense",
+                "illuminate"
+            ]
+        },
+        {
+            "name": "live",
+            "equivalences": [
+                "survive",
+                "lives",
+                "survives"
+            ],
+            "components": [
+                "verb",
+                "Life"
+            ]
+        },
+        {
+            "name": "lived",
+            "equivalences": [
+                "survived"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "live"
+            ]
+        },
+        {
+            "name": "love",
+            "equivalences": [
+                "loves"
+            ],
+            "components": [
+                "verb",
+                "Life",
+                "Possession"
+            ]
+        },
+        {
+            "name": "loved",
+            "components": [
+                "verb",
+                "past_tense",
+                "love"
+            ]
+        },
+        {
+            "name": "hate",
+            "equivalences": [
+                "hates"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "love"
+            ]
+        },
+        {
+            "name": "hated",
+            "components": [
+                "verb",
+                "past_tense",
+                "hate"
+            ]
+        },
+        {
+            "name": "fear",
+            "equivalences": [
+                "fears"
+            ],
+            "components": [
+                "verb",
+                "death",
+                "think"
+            ]
+        },
+        {
+            "name": "feared",
+            "components": [
+                "verb",
+                "past_tense",
+                "fear"
+            ]
+        },
+        {
+            "name": "prosper",
+            "equivalences": [
+                "flourish",
+                "prospers",
+                "flourishes"
+            ],
+            "components": [
+                "verb",
+                "good",
+                "live"
+            ]
+        },
+        {
+            "name": "prospered",
+            "equivalences": [
+                "flourished"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "prosper"
+            ]
+        },
+        {
+            "name": "change",
+            "equivalences": [
+                "grow",
+                "bloom",
+                "changes",
+                "grows",
+                "blooms"
+            ],
+            "components": [
+                "verb",
+                "plant",
+                "live"
+            ]
+        },
+        {
+            "name": "grew",
+            "equivalences": [
+                "bloomed",
+                "changed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "change"
+            ]
+        },
+        {
+            "name": "wither",
+            "equivalences": [
+                "withers"
+            ],
+            "components": [
+                "verb",
+                "plant",
+                "die"
+            ]
+        },
+        {
+            "name": "withered",
+            "components": [
+                "verb",
+                "past_tense",
+                "wither"
+            ]
+        },
+        {
+            "name": "stay",
+            "equivalences": [
+                "stand",
+                "wait",
+                "await",
+                "stays",
+                "stands",
+                "waits",
+                "awaits"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "go"
+            ]
+        },
+        {
+            "name": "stayed",
+            "equivalences": [
+                "stood",
+                "waited",
+                "awaited"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "stay"
+            ]
+        },
+        {
+            "name": "sit",
+            "equivalences": [
+                "sat",
+                "sits"
+            ],
+            "components": [
+                "verb",
+                "stay",
+                "low"
+            ]
+        },
+        {
+            "name": "sited",
+            "components": [
+                "verb",
+                "past_tense",
+                "sit"
+            ]
+        },
+        {
+            "name": "remain",
+            "equivalences": [
+                "linger",
+                "endure",
+                "remains",
+                "lingers",
+                "endures"
+            ],
+            "components": [
+                "verb",
+                "stay",
+                "place"
+            ]
+        },
+        {
+            "name": "remained",
+            "equivalences": [
+                "lingered",
+                "endured"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "remain"
+            ]
+        },
+        {
+            "name": "die",
+            "equivalences": [
+                "dies"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "Life"
+            ]
+        },
+        {
+            "name": "died",
+            "components": [
+                "verb",
+                "past_tense",
+                "die"
+            ]
+        },
+        {
+            "name": "launch",
+            "equivalences": [
+                "launches"
+            ],
+            "components": [
+                "verb",
+                "start",
+                "sail"
+            ]
+        },
+        {
+            "name": "launched",
+            "components": [
+                "verb",
+                "past_tense",
+                "launch"
+            ]
+        },
+        {
+            "name": "jump",
+            "equivalences": [
+                "hop",
+                "jumps",
+                "hops"
+            ],
+            "components": [
+                "verb",
+                "frog"
+            ]
+        },
+        {
+            "name": "jumped",
+            "equivalences": [
+                "hopped"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "jump"
+            ]
+        },
+        {
+            "name": "kill",
+            "components": [
+                "verb",
+                "Possession",
+                "Life"
+            ]
+        },
+        {
+            "name": "killed",
+            "components": [
+                "verb",
+                "past_tense",
+                "kill"
+            ]
+        },
+        {
+            "name": "flow",
+            "equivalences": [
+                "run",
+                "trickle",
+                "flows",
+                "runs",
+                "trickles"
+            ],
+            "components": [
+                "verb",
+                "Motion",
+                "Water"
+            ]
+        },
+        {
+            "name": "ran",
+            "equivalences": [
+                "trickled"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "flow"
+            ]
+        },
+        {
+            "name": "drink",
+            "equivalences": [
+                "drinks"
+            ],
+            "components": [
+                "verb",
+                "Water"
+            ]
+        },
+        {
+            "name": "drank",
+            "components": [
+                "verb",
+                "past_tense",
+                "drink"
+            ]
+        },
+        {
+            "name": "think",
+            "equivalences": [
+                "know",
+                "thinks",
+                "knows"
+            ],
+            "components": [
+                "verb",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "thought",
+            "equivalences": [
+                "knew"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "think"
+            ]
+        },
+        {
+            "name": "guess",
+            "equivalences": [
+                "assume",
+                "guesses",
+                "assumes"
+            ],
+            "components": [
+                "verb",
+                "jump",
+                "think"
+            ]
+        },
+        {
+            "name": "guessed",
+            "equivalences": [
+                "assumed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "guess"
+            ]
+        },
+        {
+            "name": "forget",
+            "equivalences": [
+                "forgot",
+                "forgets"
+            ],
+            "components": [
+                "verb",
+                "lose",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "forgeted",
+            "components": [
+                "verb",
+                "past_tense",
+                "forget"
+            ]
+        },
+        {
+            "name": "wonder",
+            "equivalences": [
+                "question",
+                "wonders",
+                "questions"
+            ],
+            "components": [
+                "verb",
+                "think",
+                "query"
+            ]
+        },
+        {
+            "name": "wondered",
+            "equivalences": [
+                "questioned"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "wonder"
+            ]
+        },
+        {
+            "name": "remember",
+            "components": [
+                "verb",
+                "person",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "remembered",
+            "components": [
+                "verb",
+                "past_tense",
+                "remember"
+            ]
+        },
+        {
+            "name": "learn",
+            "equivalences": [
+                "understand"
+            ],
+            "components": [
+                "verb",
+                "Possession",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "learned",
+            "equivalences": [
+                "understood"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "learn"
+            ]
+        },
+        {
+            "name": "respect",
+            "equivalences": [
+                "respects"
+            ],
+            "components": [
+                "verb",
+                "honour"
+            ]
+        },
+        {
+            "name": "respected",
+            "components": [
+                "verb",
+                "past_tense",
+                "respect"
+            ]
+        },
+        {
+            "name": "open",
+            "equivalences": [
+                "opens"
+            ],
+            "components": [
+                "verb",
+                "Light",
+                "Motion"
+            ]
+        },
+        {
+            "name": "opened",
+            "components": [
+                "verb",
+                "past_tense",
+                "open"
+            ]
+        },
+        {
+            "name": "close",
+            "equivalences": [
+                "closes"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "open"
+            ]
+        },
+        {
+            "name": "closed",
+            "components": [
+                "verb",
+                "past_tense",
+                "close"
+            ]
+        },
+        {
+            "name": "bury",
+            "equivalences": [
+                "buries"
+            ],
+            "components": [
+                "verb",
+                "site",
+                "not",
+                "Motion"
+            ]
+        },
+        {
+            "name": "buried",
+            "components": [
+                "verb",
+                "past_tense",
+                "bury"
+            ]
+        },
+        {
+            "name": "leave",
+            "equivalences": [
+                "exit",
+                "leaves",
+                "exits"
+            ],
+            "components": [
+                "verb",
+                "Separate",
+                "Motion"
+            ]
+        },
+        {
+            "name": "leaved",
+            "components": [
+                "verb",
+                "past_tense",
+                "leave"
+            ]
+        },
+        {
+            "name": "navigate",
+            "components": [
+                "verb",
+                "Knowledge",
+                "Motion"
+            ]
+        },
+        {
+            "name": "navigated",
+            "components": [
+                "verb",
+                "past_tense",
+                "navigate"
+            ]
+        },
+        {
+            "name": "come",
+            "equivalences": [
+                "comes"
+            ],
+            "components": [
+                "verb",
+                "Motion",
+                "place"
+            ]
+        },
+        {
+            "name": "came",
+            "components": [
+                "verb",
+                "past_tense",
+                "come"
+            ]
+        },
+        {
+            "name": "welcome",
+            "equivalences": [
+                "greet",
+                "welcomes",
+                "greets"
+            ],
+            "components": [
+                "verb",
+                "we",
+                "Say",
+                "Join"
+            ]
+        },
+        {
+            "name": "welcomed",
+            "components": [
+                "verb",
+                "past_tense",
+                "welcome"
+            ]
+        },
+        {
+            "name": "meet",
+            "equivalences": [
+                "met",
+                "meets"
+            ],
+            "components": [
+                "verb",
+                "we",
+                "Join"
+            ]
+        },
+        {
+            "name": "meeted",
+            "components": [
+                "verb",
+                "past_tense",
+                "meet"
+            ]
+        },
+        {
+            "name": "sail",
+            "equivalences": [
+                "sails"
+            ],
+            "components": [
+                "verb",
+                "go",
+                "path"
+            ]
+        },
+        {
+            "name": "sailed",
+            "equivalences": [
+                "journeyed"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "sail"
+            ]
+        },
+        {
+            "name": "lift",
+            "equivalences": [
+                "raise",
+                "rise",
+                "ascend",
+                "lifts",
+                "raises",
+                "rises",
+                "ascends"
+            ],
+            "components": [
+                "verb",
+                "Motion",
+                "High"
+            ]
+        },
+        {
+            "name": "rose",
+            "equivalences": [
+                "ascended"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "lift"
+            ]
+        },
+        {
+            "name": "climb",
+            "equivalences": [
+                "climbs"
+            ],
+            "components": [
+                "verb",
+                "walk",
+                "high"
+            ]
+        },
+        {
+            "name": "climbed",
+            "components": [
+                "verb",
+                "past_tense",
+                "climb"
+            ]
+        },
+        {
+            "name": "fly",
+            "equivalences": [
+                "flies"
+            ],
+            "components": [
+                "verb",
+                "Motion",
+                "sky"
+            ]
+        },
+        {
+            "name": "flew",
+            "components": [
+                "verb",
+                "past_tense",
+                "fly"
+            ]
+        },
+        {
+            "name": "fall",
+            "equivalences": [
+                "sink",
+                "descend",
+                "lower",
+                "falls",
+                "sinks",
+                "descends",
+                "lowers"
+            ],
+            "components": [
+                "verb",
+                "Motion",
+                "not",
+                "High"
+            ]
+        },
+        {
+            "name": "fell",
+            "equivalences": [
+                "sank",
+                "descended",
+                "lowered"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "fall"
+            ]
+        },
+        {
+            "name": "fight",
+            "equivalences": [
+                "fights"
+            ],
+            "components": [
+                "verb",
+                "person",
+                "Heat"
+            ]
+        },
+        {
+            "name": "fought",
+            "components": [
+                "verb",
+                "past_tense",
+                "fight"
+            ]
+        },
+        {
+            "name": "surrender",
+            "equivalences": [
+                "surrenders"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "fight"
+            ]
+        },
+        {
+            "name": "surrendered",
+            "components": [
+                "verb",
+                "past_tense",
+                "surrender"
+            ]
+        },
+        {
+            "name": "watch",
+            "equivalences": [
+                "see",
+                "look",
+                "watches",
+                "sees",
+                "looks"
+            ],
+            "components": [
+                "verb",
+                "Knowledge",
+                "Light"
+            ]
+        },
+        {
+            "name": "watched",
+            "equivalences": [
+                "saw",
+                "looked"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "watch"
+            ]
+        },
+        {
+            "name": "observe",
+            "equivalences": [
+                "observes"
+            ],
+            "components": [
+                "verb",
+                "silent",
+                "watch"
+            ]
+        },
+        {
+            "name": "observed",
+            "components": [
+                "verb",
+                "past_tense",
+                "observe"
+            ]
+        },
+        {
+            "name": "count",
+            "equivalences": [
+                "measure",
+                "counts",
+                "measures"
+            ],
+            "components": [
+                "verb",
+                "watch",
+                "number"
+            ]
+        },
+        {
+            "name": "counted",
+            "equivalences": [
+                "measured"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "count"
+            ]
+        },
+        {
+            "name": "seek",
+            "equivalences": [
+                "hunt",
+                "seeks",
+                "hunts"
+            ],
+            "components": [
+                "verb",
+                "watch",
+                "toward"
+            ]
+        },
+        {
+            "name": "sought",
+            "equivalences": [
+                "hunted"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "seek"
+            ]
+        },
+        {
+            "name": "find",
+            "equivalences": [
+                "discover",
+                "finds",
+                "discovers"
+            ],
+            "components": [
+                "verb",
+                "hold",
+                "via",
+                "Light"
+            ]
+        },
+        {
+            "name": "discovered",
+            "equivalences": [
+                "found"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "find"
+            ]
+        },
+        {
+            "name": "hear",
+            "equivalences": [
+                "listen",
+                "hears",
+                "listens"
+            ],
+            "components": [
+                "verb",
+                "Knowledge",
+                "air"
+            ]
+        },
+        {
+            "name": "heard",
+            "equivalences": [
+                "listened"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "hear"
+            ]
+        },
+        {
+            "name": "walk",
+            "equivalences": [
+                "pace",
+                "walks",
+                "paces"
+            ],
+            "components": [
+                "verb",
+                "person",
+                "Motion"
+            ]
+        },
+        {
+            "name": "walked",
+            "equivalences": [
+                "paced"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "walk"
+            ]
+        },
+        {
+            "name": "follow",
+            "equivalences": [
+                "follows"
+            ],
+            "components": [
+                "verb",
+                "toward"
+            ]
+        },
+        {
+            "name": "followed",
+            "components": [
+                "verb",
+                "past_tense",
+                "follow"
+            ]
+        },
+        {
+            "name": "chase",
+            "equivalences": [
+                "chases"
+            ],
+            "components": [
+                "verb",
+                "fast",
+                "follow"
+            ]
+        },
+        {
+            "name": "chased",
+            "components": [
+                "verb",
+                "past_tense",
+                "chase"
+            ]
+        },
+        {
+            "name": "explain",
+            "equivalences": [
+                "teach",
+                "explains",
+                "teaches"
+            ],
+            "components": [
+                "verb",
+                "Say",
+                "Truth"
+            ]
+        },
+        {
+            "name": "explained",
+            "equivalences": [
+                "taught"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "explain"
+            ]
+        },
+        {
+            "name": "deceive",
+            "equivalences": [
+                "deceives"
+            ],
+            "components": [
+                "verb",
+                "Say",
+                "not",
+                "Truth"
+            ]
+        },
+        {
+            "name": "deceived",
+            "components": [
+                "verb",
+                "past_tense",
+                "deceive"
+            ]
+        },
+        {
+            "name": "betray",
+            "equivalences": [
+                "betrays"
+            ],
+            "components": [
+                "verb",
+                "act",
+                "not",
+                "Truth"
+            ]
+        },
+        {
+            "name": "betrayed",
+            "components": [
+                "verb",
+                "past_tense",
+                "betray"
+            ]
+        },
+        {
+            "name": "appear",
+            "equivalences": [
+                "appears"
+            ],
+            "components": [
+                "verb",
+                "visible"
+            ]
+        },
+        {
+            "name": "appeared",
+            "components": [
+                "verb",
+                "past_tense",
+                "appear"
+            ]
+        },
+        {
+            "name": "fade",
+            "equivalences": [
+                "disappear",
+                "fades",
+                "disappears"
+            ],
+            "components": [
+                "verb",
+                "invisible"
+            ]
+        },
+        {
+            "name": "disappeared",
+            "equivalences": [
+                "faded"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "fade"
+            ]
+        },
+        {
+            "name": "rebel",
+            "equivalences": [
+                "rebels"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "obey"
+            ]
+        },
+        {
+            "name": "rebelled",
+            "components": [
+                "verb",
+                "past_tense",
+                "rebel"
+            ]
+        },
+        {
+            "name": "obey",
+            "equivalences": [
+                "obeys"
+            ],
+            "components": [
+                "verb",
+                "law"
+            ]
+        },
+        {
+            "name": "obeyed",
+            "components": [
+                "verb",
+                "past_tense",
+                "obey"
+            ]
+        },
+        {
+            "name": "lead",
+            "equivalences": [
+                "reveal",
+                "show",
+                "guide",
+                "point",
+                "leads",
+                "reveals",
+                "shows",
+                "guides",
+                "points"
+            ],
+            "components": [
+                "verb",
+                "Say",
+                "path"
+            ]
+        },
+        {
+            "name": "revealed",
+            "equivalences": [
+                "led",
+                "showed",
+                "pointed",
+                "guided"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "lead"
+            ]
+        },
+        {
+            "name": "fill",
+            "components": [
+                "verb",
+                "within",
+                "all"
+            ]
+        },
+        {
+            "name": "filled",
+            "components": [
+                "verb",
+                "past_tense",
+                "fill"
+            ]
+        },
+        {
+            "name": "breathe",
+            "equivalences": [
+                "breathes"
+            ],
+            "components": [
+                "verb",
+                "hold",
+                "air"
+            ]
+        },
+        {
+            "name": "breathed",
+            "components": [
+                "verb",
+                "past_tense",
+                "breathe"
+            ]
+        },
+        {
+            "name": "empty",
+            "components": [
+                "verb",
+                "outside",
+                "all"
+            ]
+        },
+        {
+            "name": "emptied",
+            "components": [
+                "verb",
+                "past_tense",
+                "empty"
+            ]
+        },
+        {
+            "name": "dig",
+            "equivalences": [
+                "digs"
+            ],
+            "components": [
+                "verb",
+                "Separate",
+                "Rock"
+            ]
+        },
+        {
+            "name": "dug",
+            "components": [
+                "verb",
+                "past_tense",
+                "dig"
+            ]
+        },
+        {
+            "name": "defend",
+            "equivalences": [
+                "guard",
+                "protect",
+                "defends",
+                "guards",
+                "protects"
+            ],
+            "components": [
+                "verb",
+                "home"
+            ]
+        },
+        {
+            "name": "defended",
+            "equivalences": [
+                "guarded",
+                "protected"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "defend"
+            ]
+        },
+        {
+            "name": "hide",
+            "equivalences": [
+                "hid",
+                "hides"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "is",
+                "watch"
+            ]
+        },
+        {
+            "name": "hided",
+            "components": [
+                "verb",
+                "past_tense",
+                "hide"
+            ]
+        },
+        {
+            "name": "vault",
+            "equivalences": [
+                "leap",
+                "vaults",
+                "leaps"
+            ],
+            "components": [
+                "verb",
+                "lift",
+                "high"
+            ]
+        },
+        {
+            "name": "vaulted",
+            "equivalences": [
+                "leapt"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "vault"
+            ]
+        },
+        {
+            "name": "repair",
+            "equivalences": [
+                "mend",
+                "repairs",
+                "mends"
+            ],
+            "components": [
+                "verb",
+                "Join",
+                "person"
+            ]
+        },
+        {
+            "name": "repaired",
+            "equivalences": [
+                "mended"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "repair"
+            ]
+        },
+        {
+            "name": "heal",
+            "equivalences": [
+                "heals"
+            ],
+            "components": [
+                "verb",
+                "Join",
+                "noun"
+            ]
+        },
+        {
+            "name": "healed",
+            "components": [
+                "verb",
+                "past_tense",
+                "heal"
+            ]
+        },
+        {
+            "name": "build",
+            "equivalences": [
+                "make",
+                "builds",
+                "makes"
+            ],
+            "components": [
+                "verb",
+                "Join",
+                "Rock"
+            ]
+        },
+        {
+            "name": "built",
+            "equivalences": [
+                "made"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "build"
+            ]
+        },
+        {
+            "name": "aid",
+            "equivalences": [
+                "save",
+                "help",
+                "aids",
+                "saves",
+                "helps"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "Life"
+            ]
+        },
+        {
+            "name": "saved",
+            "equivalences": [
+                "helped",
+                "aided"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "aid"
+            ]
+        },
+        {
+            "name": "tend",
+            "equivalences": [
+                "nurture",
+                "sustain",
+                "tends",
+                "nurtures",
+                "sustains"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "change"
+            ]
+        },
+        {
+            "name": "tended",
+            "equivalences": [
+                "nurtured",
+                "sustained"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "tend"
+            ]
+        },
+        {
+            "name": "connect",
+            "equivalences": [
+                "link",
+                "join",
+                "connects",
+                "links",
+                "joins"
+            ],
+            "components": [
+                "verb",
+                "Join"
+            ]
+        },
+        {
+            "name": "connected",
+            "equivalences": [
+                "linked",
+                "joined"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "connect"
+            ]
+        },
+        {
+            "name": "mix",
+            "equivalences": [
+                "combine",
+                "mixes",
+                "combines"
+            ],
+            "components": [
+                "verb",
+                "forever",
+                "Join"
+            ]
+        },
+        {
+            "name": "mixed",
+            "equivalences": [
+                "combined"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "mix"
+            ]
+        },
+        {
+            "name": "rejoin",
+            "equivalences": [
+                "rejoins"
+            ],
+            "components": [
+                "verb",
+                "again",
+                "Join"
+            ]
+        },
+        {
+            "name": "rejoined",
+            "components": [
+                "verb",
+                "past_tense",
+                "rejoin"
+            ]
+        },
+        {
+            "name": "belong",
+            "equivalences": [
+                "belongs"
+            ],
+            "components": [
+                "verb",
+                "is",
+                "home"
+            ]
+        },
+        {
+            "name": "belonged",
+            "components": [
+                "verb",
+                "past_tense",
+                "belong"
+            ]
+        },
+        {
+            "name": "drown",
+            "equivalences": [
+                "drowns"
+            ],
+            "components": [
+                "verb",
+                "die",
+                "Water"
+            ]
+        },
+        {
+            "name": "drowned",
+            "components": [
+                "verb",
+                "past_tense",
+                "drown"
+            ]
+        },
+        {
+            "name": "believe",
+            "equivalences": [
+                "trust",
+                "accept",
+                "believes",
+                "trusts",
+                "accepts"
+            ],
+            "components": [
+                "verb",
+                "think",
+                "Truth"
+            ]
+        },
+        {
+            "name": "believed",
+            "equivalences": [
+                "trusted",
+                "accepted"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "believe"
+            ]
+        },
+        {
+            "name": "ask",
+            "equivalences": [
+                "asks"
+            ],
+            "components": [
+                "verb",
+                "query",
+                "speak"
+            ]
+        },
+        {
+            "name": "asked",
+            "components": [
+                "verb",
+                "past_tense",
+                "ask"
+            ]
+        },
+        {
+            "name": "write",
+            "equivalences": [
+                "record",
+                "writes",
+                "records"
+            ],
+            "components": [
+                "verb",
+                "speak",
+                "not",
+                "Say"
+            ]
+        },
+        {
+            "name": "wrote",
+            "equivalences": [
+                "recorded"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "write"
+            ]
+        },
+        {
+            "name": "draw",
+            "equivalences": [
+                "draws"
+            ],
+            "components": [
+                "verb",
+                "write",
+                "Light"
+            ]
+        },
+        {
+            "name": "drew",
+            "components": [
+                "verb",
+                "past_tense",
+                "draw"
+            ]
+        },
+        {
+            "name": "read",
+            "equivalences": [
+                "reads"
+            ],
+            "components": [
+                "verb",
+                "hear",
+                "writing"
+            ]
+        },
+        {
+            "name": "readed",
+            "components": [
+                "verb",
+                "past_tense",
+                "read"
+            ]
+        },
+        {
+            "name": "activate",
+            "equivalences": [
+                "operate",
+                "activates",
+                "operates"
+            ],
+            "components": [
+                "verb",
+                "work"
+            ]
+        },
+        {
+            "name": "activated",
+            "equivalences": [
+                "operated"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "activate"
+            ]
+        },
+        {
+            "name": "play",
+            "equivalences": [
+                "plays"
+            ],
+            "components": [
+                "verb",
+                "High",
+                "Motion"
+            ]
+        },
+        {
+            "name": "played",
+            "components": [
+                "verb",
+                "past_tense",
+                "play"
+            ]
+        },
+        {
+            "name": "dance",
+            "equivalences": [
+                "dances"
+            ],
+            "components": [
+                "verb",
+                "music",
+                "play"
+            ]
+        },
+        {
+            "name": "danced",
+            "components": [
+                "verb",
+                "past_tense",
+                "dance"
+            ]
+        },
+        {
+            "name": "let",
+            "equivalences": [
+                "allow",
+                "lets",
+                "allows"
+            ],
+            "components": [
+                "verb",
+                "give",
+                "open"
+            ]
+        },
+        {
+            "name": "allowed",
+            "components": [
+                "verb",
+                "past_tense",
+                "let"
+            ]
+        },
+        {
+            "name": "deny",
+            "equivalences": [
+                "denies"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "hear"
+            ]
+        },
+        {
+            "name": "denied",
+            "components": [
+                "verb",
+                "past_tense",
+                "deny"
+            ]
+        },
+        {
+            "name": "win",
+            "equivalences": [
+                "wins"
+            ],
+            "components": [
+                "verb",
+                "hold",
+                "wind"
+            ]
+        },
+        {
+            "name": "won",
+            "components": [
+                "verb",
+                "past_tense",
+                "win"
+            ]
+        },
+        {
+            "name": "fail",
+            "equivalences": [
+                "fails"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "win"
+            ]
+        },
+        {
+            "name": "failed",
+            "components": [
+                "verb",
+                "past_tense",
+                "fail"
+            ]
+        },
+        {
+            "name": "arrange",
+            "equivalences": [
+                "tidy",
+                "tidies",
+                "organise",
+                "arranges",
+                "organises"
+            ],
+            "components": [
+                "verb",
+                "Rock",
+                "Motion",
+                "place"
+            ]
+        },
+        {
+            "name": "organised",
+            "equivalences": [
+                "arranged",
+                "tidied"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "arrange"
+            ]
+        },
+        {
+            "name": "mould",
+            "equivalences": [
+                "moulds"
+            ],
+            "components": [
+                "verb",
+                "build",
+                "shape"
+            ]
+        },
+        {
+            "name": "moulded",
+            "components": [
+                "verb",
+                "past_tense",
+                "mould"
+            ]
+        },
+        {
+            "name": "put",
+            "equivalences": [
+                "position",
+                "puts",
+                "positions"
+            ],
+            "components": [
+                "verb",
+                "place"
+            ]
+        },
+        {
+            "name": "positioned",
+            "components": [
+                "verb",
+                "past_tense",
+                "put"
+            ]
+        },
+        {
+            "name": "replace",
+            "equivalences": [
+                "replaces"
+            ],
+            "components": [
+                "verb",
+                "put",
+                "again"
+            ]
+        },
+        {
+            "name": "replaced",
+            "components": [
+                "verb",
+                "past_tense",
+                "replace"
+            ]
+        },
+        {
+            "name": "remove",
+            "equivalences": [
+                "unload",
+                "removes",
+                "unloads"
+            ],
+            "components": [
+                "verb",
+                "not",
+                "put"
+            ]
+        },
+        {
+            "name": "removed",
+            "equivalences": [
+                "unloaded"
+            ],
+            "components": [
+                "verb",
+                "past_tense",
+                "remove"
+            ]
+        },
+        {
+            "name": "reap",
+            "equivalences": [
+                "reaps"
+            ],
+            "components": [
+                "verb",
+                "harvest"
+            ]
+        },
+        {
+            "name": "reaped",
+            "components": [
+                "verb",
+                "past_tense",
+                "reap"
+            ]
+        },
+        {
+            "name": "curved",
+            "equivalences": [
+                "bent"
+            ],
+            "components": [
+                "quality",
+                "arc"
+            ]
+        },
+        {
+            "name": "dangerous",
+            "equivalences": [
+                "perilous"
+            ],
+            "components": [
+                "quality",
+                "danger"
+            ]
+        },
+        {
+            "name": "holy",
+            "equivalences": [
+                "divine",
+                "sacred"
+            ],
+            "components": [
+                "quality",
+                "Goddess"
+            ]
+        },
+        {
+            "name": "asleep",
+            "components": [
+                "quality",
+                "sleep"
+            ]
+        },
+        {
+            "name": "flat",
+            "components": [
+                "quality",
+                "not",
+                "shape"
+            ]
+        },
+        {
+            "name": "awake",
+            "components": [
+                "quality",
+                "not",
+                "sleep"
+            ]
+        },
+        {
+            "name": "full",
+            "components": [
+                "quality",
+                "of",
+                "cease"
+            ]
+        },
+        {
+            "name": "highest",
+            "components": [
+                "quality",
+                "most",
+                "high"
+            ]
+        },
+        {
+            "name": "holiest",
+            "components": [
+                "quality",
+                "most",
+                "holy"
+            ]
+        },
+        {
+            "name": "brightest",
+            "components": [
+                "quality",
+                "most",
+                "bright"
+            ]
+        },
+        {
+            "name": "brave",
+            "equivalences": [
+                "bold"
+            ],
+            "components": [
+                "quality",
+                "act",
+                "fire"
+            ]
+        },
+        {
+            "name": "wary",
+            "equivalences": [
+                "cautious"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "brave"
+            ]
+        },
+        {
+            "name": "finest",
+            "equivalences": [
+                "best"
+            ],
+            "components": [
+                "quality",
+                "most",
+                "good"
+            ]
+        },
+        {
+            "name": "worst",
+            "components": [
+                "quality",
+                "most",
+                "bad"
+            ]
+        },
+        {
+            "name": "sick",
+            "equivalences": [
+                "ill"
+            ],
+            "components": [
+                "quality",
+                "person",
+                "poison"
+            ]
+        },
+        {
+            "name": "stuck",
+            "equivalences": [
+                "caught",
+                "trapped",
+                "tied"
+            ],
+            "components": [
+                "quality",
+                "owned"
+            ]
+        },
+        {
+            "name": "landing",
+            "components": [
+                "quality",
+                "arrive"
+            ]
+        },
+        {
+            "name": "true",
+            "equivalences": [
+                "right",
+                "correct"
+            ],
+            "components": [
+                "quality",
+                "Truth"
+            ]
+        },
+        {
+            "name": "wrong",
+            "equivalences": [
+                "false",
+                "incorrect"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "Truth"
+            ]
+        },
+        {
+            "name": "still",
+            "equivalences": [
+                "static"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "Motion"
+            ]
+        },
+        {
+            "name": "hot",
+            "components": [
+                "quality",
+                "Heat"
+            ]
+        },
+        {
+            "name": "warm",
+            "equivalences": [
+                "orange"
+            ],
+            "components": [
+                "quality",
+                "soft",
+                "Heat"
+            ]
+        },
+        {
+            "name": "free",
+            "components": [
+                "quality",
+                "freedom"
+            ]
+        },
+        {
+            "name": "wise",
+            "components": [
+                "quality",
+                "Knowledge"
+            ]
+        },
+        {
+            "name": "important",
+            "equivalences": [
+                "serious"
+            ],
+            "components": [
+                "quality",
+                "High",
+                "Truth"
+            ]
+        },
+        {
+            "name": "certain",
+            "equivalences": [
+                "sure"
+            ],
+            "components": [
+                "quality",
+                "Possession",
+                "Truth"
+            ]
+        },
+        {
+            "name": "hidden",
+            "equivalences": [
+                "secret"
+            ],
+            "components": [
+                "quality",
+                "hide"
+            ]
+        },
+        {
+            "name": "seen",
+            "components": [
+                "quality",
+                "not",
+                "hide"
+            ]
+        },
+        {
+            "name": "dishonest",
+            "components": [
+                "quality",
+                "not",
+                "honest"
+            ]
+        },
+        {
+            "name": "nice",
+            "equivalences": [
+                "kind"
+            ],
+            "components": [
+                "quality",
+                "person",
+                "love"
+            ]
+        },
+        {
+            "name": "happy",
+            "equivalences": [
+                "joyful"
+            ],
+            "components": [
+                "quality",
+                "joy"
+            ]
+        },
+        {
+            "name": "unhappy",
+            "equivalences": [
+                "sad",
+                "miserable"
+            ],
+            "components": [
+                "quality",
+                "sorrow"
+            ]
+        },
+        {
+            "name": "angry",
+            "components": [
+                "quality",
+                "anger"
+            ]
+        },
+        {
+            "name": "grateful",
+            "equivalences": [
+                "thankful"
+            ],
+            "components": [
+                "quality",
+                "gratitude"
+            ]
+        },
+        {
+            "name": "peaceful",
+            "equivalences": [
+                "calm",
+                "satisfied",
+                "content"
+            ],
+            "components": [
+                "quality",
+                "plant"
+            ]
+        },
+        {
+            "name": "busy",
+            "equivalences": [
+                "active",
+                "restless"
+            ],
+            "components": [
+                "quality",
+                "creature"
+            ]
+        },
+        {
+            "name": "beautiful",
+            "components": [
+                "quality",
+                "beauty"
+            ]
+        },
+        {
+            "name": "soft",
+            "components": [
+                "quality",
+                "not",
+                "Rock"
+            ]
+        },
+        {
+            "name": "hard",
+            "equivalences": [
+                "firm",
+                "solid"
+            ],
+            "components": [
+                "quality",
+                "Rock"
+            ]
+        },
+        {
+            "name": "unkind",
+            "equivalences": [
+                "cruel",
+                "evil"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "nice"
+            ]
+        },
+        {
+            "name": "cold",
+            "components": [
+                "quality",
+                "not",
+                "Heat"
+            ]
+        },
+        {
+            "name": "broken",
+            "components": [
+                "quality",
+                "severed"
+            ]
+        },
+        {
+            "name": "bright",
+            "equivalences": [
+                "brilliant",
+                "shining"
+            ],
+            "components": [
+                "quality",
+                "Light"
+            ]
+        },
+        {
+            "name": "red",
+            "equivalences": [
+                "fiery"
+            ],
+            "components": [
+                "quality",
+                "fire"
+            ]
+        },
+        {
+            "name": "dark",
+            "equivalences": [
+                "black"
+            ],
+            "components": [
+                "quality",
+                "darkness"
+            ]
+        },
+        {
+            "name": "high",
+            "equivalences": [
+                "above",
+                "up",
+                "over"
+            ],
+            "components": [
+                "quality",
+                "High"
+            ]
+        },
+        {
+            "name": "low",
+            "equivalences": [
+                "under",
+                "below",
+                "down"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "High"
+            ]
+        },
+        {
+            "name": "via",
+            "equivalences": [
+                "by",
+                "through"
+            ],
+            "components": [
+                "quality",
+                "at",
+                "out"
+            ]
+        },
+        {
+            "name": "deep",
+            "components": [
+                "quality",
+                "many",
+                "low"
+            ]
+        },
+        {
+            "name": "few",
+            "components": [
+                "quality",
+                "not",
+                "many"
+            ]
+        },
+        {
+            "name": "tiny",
+            "equivalences": [
+                "small",
+                "little"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "big"
+            ]
+        },
+        {
+            "name": "quiet",
+            "components": [
+                "quality",
+                "Say",
+                "tiny"
+            ]
+        },
+        {
+            "name": "silent",
+            "components": [
+                "quality",
+                "no",
+                "Say"
+            ]
+        },
+        {
+            "name": "loud",
+            "components": [
+                "quality",
+                "Say",
+                "big"
+            ]
+        },
+        {
+            "name": "big",
+            "equivalences": [
+                "large",
+                "great"
+            ],
+            "components": [
+                "quality",
+                "of",
+                "many"
+            ]
+        },
+        {
+            "name": "short",
+            "components": [
+                "quality",
+                "tiny",
+                "Motion"
+            ]
+        },
+        {
+            "name": "long",
+            "components": [
+                "quality",
+                "big",
+                "Motion"
+            ]
+        },
+        {
+            "name": "enormous",
+            "equivalences": [
+                "colossal"
+            ],
+            "components": [
+                "quality",
+                "very",
+                "big"
+            ]
+        },
+        {
+            "name": "royal",
+            "equivalences": [
+                "noble"
+            ],
+            "components": [
+                "quality",
+                "High",
+                "Life"
+            ]
+        },
+        {
+            "name": "ancient",
+            "equivalences": [
+                "old"
+            ],
+            "components": [
+                "quality",
+                "many",
+                "time"
+            ]
+        },
+        {
+            "name": "wide",
+            "equivalences": [
+                "ajar"
+            ],
+            "components": [
+                "quality",
+                "open"
+            ]
+        },
+        {
+            "name": "narrow",
+            "equivalences": [
+                "shut"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "open"
+            ]
+        },
+        {
+            "name": "new",
+            "equivalences": [
+                "young"
+            ],
+            "components": [
+                "quality",
+                "Possession",
+                "time"
+            ]
+        },
+        {
+            "name": "endless",
+            "equivalences": [
+                "infinite",
+                "eternal"
+            ],
+            "components": [
+                "quality",
+                "forever"
+            ]
+        },
+        {
+            "name": "inquisitive",
+            "equivalences": [
+                "curious"
+            ],
+            "components": [
+                "quality",
+                "person",
+                "query"
+            ]
+        },
+        {
+            "name": "precise",
+            "components": [
+                "quality",
+                "true",
+                "tiny"
+            ]
+        },
+        {
+            "name": "visible",
+            "components": [
+                "quality",
+                "watch"
+            ]
+        },
+        {
+            "name": "invisible",
+            "components": [
+                "quality",
+                "not",
+                "watch"
+            ]
+        },
+        {
+            "name": "before",
+            "components": [
+                "quality",
+                "past_tense",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "across",
+            "components": [
+                "quality",
+                "toward",
+                "end"
+            ]
+        },
+        {
+            "name": "beyond",
+            "equivalences": [
+                "after"
+            ],
+            "components": [
+                "quality",
+                "past_tense",
+                "end"
+            ]
+        },
+        {
+            "name": "taut",
+            "equivalences": [
+                "tight"
+            ],
+            "components": [
+                "quality",
+                "knot"
+            ]
+        },
+        {
+            "name": "loose",
+            "equivalences": [
+                "slack",
+                "limp"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "knot"
+            ]
+        },
+        {
+            "name": "strong",
+            "components": [
+                "quality",
+                "iron"
+            ]
+        },
+        {
+            "name": "weak",
+            "components": [
+                "quality",
+                "not",
+                "strong"
+            ]
+        },
+        {
+            "name": "away",
+            "equivalences": [
+                "far",
+                "distant",
+                "separation",
+                "division"
+            ],
+            "components": [
+                "quality",
+                "Separate"
+            ]
+        },
+        {
+            "name": "near",
+            "equivalences": [
+                "proximate"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "away"
+            ]
+        },
+        {
+            "name": "closer",
+            "equivalences": [
+                "shorter"
+            ],
+            "components": [
+                "quality",
+                "more",
+                "near"
+            ]
+        },
+        {
+            "name": "sharper",
+            "components": [
+                "quality",
+                "more",
+                "sharp"
+            ]
+        },
+        {
+            "name": "further",
+            "equivalences": [
+                "longer"
+            ],
+            "components": [
+                "quality",
+                "more",
+                "away"
+            ]
+        },
+        {
+            "name": "fast",
+            "equivalences": [
+                "swift",
+                "quick",
+                "quickly"
+            ],
+            "components": [
+                "quality",
+                "Water"
+            ]
+        },
+        {
+            "name": "efficient",
+            "components": [
+                "quality",
+                "robot",
+                "head"
+            ]
+        },
+        {
+            "name": "slow",
+            "equivalences": [
+                "slowly"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "fast"
+            ]
+        },
+        {
+            "name": "precious",
+            "equivalences": [
+                "valuable",
+                "rich",
+                "worthy"
+            ],
+            "components": [
+                "quality",
+                "value"
+            ]
+        },
+        {
+            "name": "poor",
+            "components": [
+                "quality",
+                "not",
+                "precious"
+            ]
+        },
+        {
+            "name": "blind",
+            "equivalences": [
+                "blindly"
+            ],
+            "components": [
+                "quality",
+                "person",
+                "not",
+                "watch"
+            ]
+        },
+        {
+            "name": "safe",
+            "equivalences": [
+                "safely"
+            ],
+            "components": [
+                "quality",
+                "home"
+            ]
+        },
+        {
+            "name": "hale",
+            "equivalences": [
+                "healthy"
+            ],
+            "components": [
+                "quality",
+                "person",
+                "Join"
+            ]
+        },
+        {
+            "name": "only",
+            "components": [
+                "quality",
+                "of",
+                "1"
+            ]
+        },
+        {
+            "name": "equal",
+            "components": [
+                "quality",
+                "one",
+                "toward",
+                "one"
+            ]
+        },
+        {
+            "name": "loyal",
+            "equivalences": [
+                "loving"
+            ],
+            "components": [
+                "quality",
+                "all",
+                "heart"
+            ]
+        },
+        {
+            "name": "honest",
+            "components": [
+                "quality",
+                "all",
+                "honour"
+            ]
+        },
+        {
+            "name": "good",
+            "equivalences": [
+                "fair",
+                "just",
+                "ethical"
+            ],
+            "components": [
+                "quality",
+                "honour"
+            ]
+        },
+        {
+            "name": "bad",
+            "components": [
+                "quality",
+                "not",
+                "good"
+            ]
+        },
+        {
+            "name": "lush",
+            "equivalences": [
+                "fertile",
+                "green"
+            ],
+            "components": [
+                "quality",
+                "many",
+                "plant"
+            ]
+        },
+        {
+            "name": "imperial",
+            "equivalences": [
+                "regal"
+            ],
+            "components": [
+                "quality",
+                "Emperor"
+            ]
+        },
+        {
+            "name": "lost",
+            "equivalences": [
+                "gone"
+            ],
+            "components": [
+                "quality",
+                "lose"
+            ]
+        },
+        {
+            "name": "forgotten",
+            "components": [
+                "quality",
+                "forget"
+            ]
+        },
+        {
+            "name": "dead",
+            "equivalences": [
+                "white"
+            ],
+            "components": [
+                "quality",
+                "death"
+            ]
+        },
+        {
+            "name": "obedient",
+            "components": [
+                "quality",
+                "obey"
+            ]
+        },
+        {
+            "name": "growing",
+            "equivalences": [
+                "flourishing",
+                "prosperous"
+            ],
+            "components": [
+                "quality",
+                "change"
+            ]
+        },
+        {
+            "name": "withering",
+            "equivalences": [
+                "grey"
+            ],
+            "components": [
+                "quality",
+                "wither"
+            ]
+        },
+        {
+            "name": "dying",
+            "components": [
+                "quality",
+                "die"
+            ]
+        },
+        {
+            "name": "alive",
+            "equivalences": [
+                "living"
+            ],
+            "components": [
+                "quality",
+                "live"
+            ]
+        },
+        {
+            "name": "written",
+            "components": [
+                "quality",
+                "write"
+            ]
+        },
+        {
+            "name": "fallen",
+            "components": [
+                "quality",
+                "past_tense",
+                "fall"
+            ]
+        },
+        {
+            "name": "early",
+            "components": [
+                "quality",
+                "front",
+                "time"
+            ]
+        },
+        {
+            "name": "late",
+            "components": [
+                "quality",
+                "rear",
+                "time"
+            ]
+        },
+        {
+            "name": "soon",
+            "equivalences": [
+                "almost"
+            ],
+            "components": [
+                "quality",
+                "near",
+                "time"
+            ]
+        },
+        {
+            "name": "alone",
+            "components": [
+                "quality",
+                "not",
+                "of"
+            ]
+        },
+        {
+            "name": "sharp",
+            "components": [
+                "quality",
+                "sword"
+            ]
+        },
+        {
+            "name": "wet",
+            "components": [
+                "quality",
+                "of",
+                "Water"
+            ]
+        },
+        {
+            "name": "dry",
+            "equivalences": [
+                "arid"
+            ],
+            "components": [
+                "quality",
+                "not",
+                "wet"
+            ]
+        },
+        {
+            "name": "start",
+            "equivalences": [
+                "beginning",
+                "starts",
+                "beginnings"
+            ],
+            "components": [
+                "time",
+                "Beginning"
+            ]
+        },
+        {
+            "name": "end",
+            "equivalences": [
+                "ends"
+            ],
+            "components": [
+                "time",
+                "not",
+                "start"
+            ]
+        },
+        {
+            "name": "often",
+            "equivalences": [
+                "frequently"
+            ],
+            "components": [
+                "time",
+                "many"
+            ]
+        },
+        {
+            "name": "forever",
+            "equivalences": [
+                "always"
+            ],
+            "components": [
+                "time",
+                "all"
+            ]
+        },
+        {
+            "name": "never",
+            "components": [
+                "time",
+                "not"
+            ]
+        },
+        {
+            "name": "first",
+            "components": [
+                "time",
+                "1"
+            ]
+        },
+        {
+            "name": "last",
+            "components": [
+                "time",
+                "not",
+                "first"
+            ]
+        },
+        {
+            "name": "second",
+            "components": [
+                "time",
+                "2"
+            ]
+        },
+        {
+            "name": "third",
+            "components": [
+                "time",
+                "3"
+            ]
+        },
+        {
+            "name": "fourth",
+            "components": [
+                "time",
+                "4"
+            ]
+        },
+        {
+            "name": "fifth",
+            "components": [
+                "time",
+                "5"
+            ]
+        },
+        {
+            "name": "sixth",
+            "components": [
+                "time",
+                "6"
+            ]
+        },
+        {
+            "name": "seventh",
+            "components": [
+                "time",
+                "7"
+            ]
+        },
+        {
+            "name": "eighth",
+            "components": [
+                "time",
+                "8"
+            ]
+        },
+        {
+            "name": "ninth",
+            "components": [
+                "time",
+                "9"
+            ]
+        },
+        {
+            "name": "today",
+            "components": [
+                "time",
+                "day"
+            ]
+        },
+        {
+            "name": "tomorrow",
+            "components": [
+                "time",
+                "1",
+                "day"
+            ]
+        },
+        {
+            "name": "yesterday",
+            "components": [
+                "time",
+                "not",
+                "1",
+                "day"
+            ]
+        },
+        {
+            "name": "again",
+            "components": [
+                "time",
+                "more"
+            ]
+        },
+        {
+            "name": "past",
+            "components": [
+                "time",
+                "past_tense",
+                "act"
+            ]
+        },
+        {
+            "name": "should",
+            "equivalences": [
+                "shall",
+                "will",
+                "future"
+            ],
+            "components": [
+                "time",
+                "act"
+            ]
+        },
+        {
+            "name": "moment",
+            "equivalences": [
+                "instant"
+            ],
+            "components": [
+                "time",
+                "not",
+                "High"
+            ]
+        },
+        {
+            "name": "age",
+            "equivalences": [
+                "epoch"
+            ],
+            "components": [
+                "time",
+                "High"
+            ]
+        },
+        {
+            "name": "until",
+            "components": [
+                "time",
+                "toward"
+            ]
+        },
+        {
+            "name": "now",
+            "components": [
+                "time",
+                "this"
+            ]
+        },
+        {
+            "name": "since",
+            "components": [
+                "time",
+                "from"
+            ]
+        },
+        {
+            "name": "luck",
+            "components": [
+                "property",
+                "good",
+                "wind"
+            ]
+        },
+        {
+            "name": "obedience",
+            "components": [
+                "property",
+                "obey"
+            ]
+        },
+        {
+            "name": "danger",
+            "components": [
+                "property",
+                "hold",
+                "death"
+            ]
+        },
+        {
+            "name": "faith",
+            "equivalences": [
+                "belief"
+            ],
+            "components": [
+                "property",
+                "believe"
+            ]
+        },
+        {
+            "name": "name",
+            "equivalences": [
+                "names"
+            ],
+            "components": [
+                "property",
+                "Say",
+                "is"
+            ]
+        },
+        {
+            "name": "truth",
+            "components": [
+                "property",
+                "Truth"
+            ]
+        },
+        {
+            "name": "more",
+            "components": [
+                "property",
+                "and"
+            ]
+        },
+        {
+            "name": "deception",
+            "equivalences": [
+                "falsehood"
+            ],
+            "components": [
+                "property",
+                "not",
+                "Truth"
+            ]
+        },
+        {
+            "name": "whole",
+            "components": [
+                "property",
+                "all"
+            ]
+        },
+        {
+            "name": "piece",
+            "equivalences": [
+                "some"
+            ],
+            "components": [
+                "property",
+                "not",
+                "all"
+            ]
+        },
+        {
+            "name": "mercy",
+            "components": [
+                "property",
+                "comfort"
+            ]
+        },
+        {
+            "name": "value",
+            "equivalences": [
+                "worth"
+            ],
+            "components": [
+                "property",
+                "Water"
+            ]
+        },
+        {
+            "name": "honour",
+            "equivalences": [
+                "goodness"
+            ],
+            "components": [
+                "property",
+                "Truth",
+                "Life"
+            ]
+        },
+        {
+            "name": "beauty",
+            "components": [
+                "property",
+                "Light",
+                "honour"
+            ]
+        },
+        {
+            "name": "kindness",
+            "equivalences": [
+                "generosity"
+            ],
+            "components": [
+                "property",
+                "nice"
+            ]
+        },
+        {
+            "name": "greatness",
+            "components": [
+                "property",
+                "of",
+                "big"
+            ]
+        },
+        {
+            "name": "music",
+            "equivalences": [
+                "tune"
+            ],
+            "components": [
+                "property",
+                "Say",
+                "High"
+            ]
+        },
+        {
+            "name": "joy",
+            "equivalences": [
+                "happiness",
+                "joys"
+            ],
+            "components": [
+                "property",
+                "person",
+                "Light"
+            ]
+        },
+        {
+            "name": "sorrow",
+            "equivalences": [
+                "sadness",
+                "misery",
+                "sorrows"
+            ],
+            "components": [
+                "property",
+                "not",
+                "joy"
+            ]
+        },
+        {
+            "name": "anger",
+            "components": [
+                "property",
+                "person",
+                "Heat"
+            ]
+        },
+        {
+            "name": "friendship",
+            "components": [
+                "property",
+                "friend"
+            ]
+        },
+        {
+            "name": "speed",
+            "components": [
+                "property",
+                "fast"
+            ]
+        },
+        {
+            "name": "luxury",
+            "components": [
+                "property",
+                "High",
+                "Water"
+            ]
+        },
+        {
+            "name": "gratitude",
+            "equivalences": [
+                "thanks",
+                "gratefulness"
+            ],
+            "components": [
+                "property",
+                "watch",
+                "kindness"
+            ]
+        },
+        {
+            "name": "loyalty",
+            "equivalences": [
+                "devotion"
+            ],
+            "components": [
+                "property",
+                "all",
+                "heart"
+            ]
+        },
+        {
+            "name": "betrayal",
+            "equivalences": [
+                "treachery"
+            ],
+            "components": [
+                "property",
+                "betray"
+            ]
+        },
+        {
+            "name": "honesty",
+            "components": [
+                "property",
+                "all",
+                "honour"
+            ]
+        },
+        {
+            "name": "dishonesty",
+            "components": [
+                "property",
+                "not",
+                "honest"
+            ]
+        },
+        {
+            "name": "force",
+            "components": [
+                "property",
+                "strength"
+            ]
+        },
+        {
+            "name": "cruelty",
+            "components": [
+                "property",
+                "unkind"
+            ]
+        },
+        {
+            "name": "safety",
+            "equivalences": [
+                "protection"
+            ],
+            "components": [
+                "property",
+                "safe"
+            ]
+        },
+        {
+            "name": "length",
+            "components": [
+                "property",
+                "path"
+            ]
+        },
+        {
+            "name": "laughter",
+            "components": [
+                "property",
+                "laugh"
+            ]
+        },
+        {
+            "name": "learning",
+            "equivalences": [
+                "wisdom"
+            ],
+            "components": [
+                "property",
+                "path",
+                "of",
+                "knowledge"
+            ]
+        },
+        {
+            "name": "foolishness",
+            "equivalences": [
+                "idiocy",
+                "stupidity"
+            ],
+            "components": [
+                "property",
+                "not",
+                "learning"
+            ]
+        },
+        {
+            "name": "decision",
+            "equivalences": [
+                "choice"
+            ],
+            "components": [
+                "property",
+                "choose"
+            ]
+        },
+        {
+            "name": "caution",
+            "equivalences": [
+                "wariness"
+            ],
+            "components": [
+                "property",
+                "wary"
+            ]
+        },
+        {
+            "name": "number",
+            "equivalences": [
+                "numbers"
+            ],
+            "components": [
+                "property",
+                "one",
+                "and",
+                "one"
+            ]
+        },
+        {
+            "name": "because",
+            "components": [
+                "via",
+                "reason"
+            ]
+        },
+        {
+            "name": "emotion",
+            "components": [
+                "person",
+                "property"
+            ]
+        },
+        {
+            "name": "act",
+            "equivalences": [
+                "do",
+                "does",
+                "acts"
+            ],
+            "components": [
+                "verb"
+            ]
+        },
+        {
+            "name": "acted",
+            "equivalences": [
+                "did"
+            ],
+            "components": [
+                "past_tense",
+                "act"
+            ]
+        },
+        {
+            "name": "but",
+            "equivalences": [
+                "yet",
+                "except"
+            ],
+            "components": [
+                "not",
+                "and"
+            ]
+        },
+        {
+            "name": "so",
+            "equivalences": [
+                "thus",
+                "therefore"
+            ],
+            "components": [
+                "not",
+                "not"
+            ]
+        },
+        {
+            "name": "or",
+            "components": [
+                "query",
+                "and"
+            ]
+        },
+        {
+            "name": "weaker",
+            "components": [
+                "of",
+                "weak"
+            ]
+        },
+        {
+            "name": "heaven's",
+            "components": [
+                "of",
+                "sky"
+            ]
+        },
+        {
+            "name": "stronger",
+            "components": [
+                "of",
+                "strong"
+            ]
+        },
+        {
+            "name": "faster",
+            "equivalences": [
+                "quicker"
+            ],
+            "components": [
+                "of",
+                "fast"
+            ]
+        },
+        {
+            "name": "slower",
+            "components": [
+                "of",
+                "slow"
+            ]
+        },
+        {
+            "name": "richer",
+            "components": [
+                "of",
+                "precious"
+            ]
+        },
+        {
+            "name": "together",
+            "components": [
+                "of",
+                "Join"
+            ]
+        },
+        {
+            "name": "God's",
+            "components": [
+                "of",
+                "Goddess"
+            ]
+        },
+        {
+            "name": "Empire's",
+            "components": [
+                "of",
+                "Empire"
+            ]
+        },
+        {
+            "name": "time's",
+            "equivalences": [
+                "season's"
+            ],
+            "components": [
+                "of",
+                "time"
+            ]
+        },
+        {
+            "name": "sailor's",
+            "components": [
+                "of",
+                "citizen"
+            ]
+        },
+        {
+            "name": "merchant's",
+            "components": [
+                "of",
+                "seller"
+            ]
+        },
+        {
+            "name": "soldier's",
+            "components": [
+                "of",
+                "soldier"
+            ]
+        },
+        {
+            "name": "ship's",
+            "components": [
+                "of",
+                "boat"
+            ]
+        },
+        {
+            "name": "and",
+            "components": [
+                "and"
+            ]
+        },
+        {
+            "name": "wind's",
+            "components": [
+                "of",
+                "wind"
+            ]
+        },
+        {
+            "name": "star's",
+            "components": [
+                "of",
+                "star"
+            ]
+        },
+        {
+            "name": "Nebula's",
+            "components": [
+                "of",
+                "Nebula"
+            ]
+        },
+        {
+            "name": "my",
+            "components": [
+                "of",
+                "me"
+            ]
+        },
+        {
+            "name": "your",
+            "equivalences": [
+                "yours"
+            ],
+            "components": [
+                "of",
+                "you"
+            ]
+        },
+        {
+            "name": "eagle's",
+            "components": [
+                "of",
+                "eagle"
+            ]
+        },
+        {
+            "name": "our",
+            "equivalences": [
+                "ours"
+            ],
+            "components": [
+                "of",
+                "we"
+            ]
+        },
+        {
+            "name": "its",
+            "components": [
+                "of",
+                "it"
+            ]
+        },
+        {
+            "name": "river's",
+            "components": [
+                "of",
+                "river"
+            ]
+        },
+        {
+            "name": "robot's",
+            "equivalences": [
+                "robots'"
+            ],
+            "components": [
+                "of",
+                "robot"
+            ]
+        },
+        {
+            "name": "their",
+            "components": [
+                "of",
+                "they"
+            ]
+        },
+        {
+            "name": "Emperor's",
+            "components": [
+                "of",
+                "Emperor"
+            ]
+        },
+        {
+            "name": "serpent's",
+            "components": [
+                "of",
+                "snake"
+            ]
+        },
+        {
+            "name": "master's",
+            "equivalences": [
+                "owner's"
+            ],
+            "components": [
+                "of",
+                "overseer"
+            ]
+        },
+        {
+            "name": "at",
+            "equivalences": [
+                "in"
+            ],
+            "components": [
+                "of",
+                "Possession"
+            ]
+        },
+        {
+            "name": "pilgrim's",
+            "components": [
+                "of",
+                "pilgrim"
+            ]
+        },
+        {
+            "name": "out",
+            "components": [
+                "not",
+                "at"
+            ]
+        },
+        {
+            "name": "toward",
+            "equivalences": [
+                "towards",
+                "for",
+                "into"
+            ],
+            "components": [
+                "of",
+                "Motion"
+            ]
+        },
+        {
+            "name": "from",
+            "components": [
+                "not",
+                "toward"
+            ]
+        },
+        {
+            "name": "on",
+            "equivalences": [
+                "upon"
+            ],
+            "components": [
+                "of",
+                "High"
+            ]
+        },
+        {
+            "name": "around",
+            "equivalences": [
+                "round"
+            ],
+            "components": [
+                "of",
+                "Circle"
+            ]
+        },
+        {
+            "name": "must",
+            "components": [
+                "Truth",
+                "should"
+            ]
+        },
+        {
+            "name": "do-not",
+            "equivalences": [
+                "does-not"
+            ],
+            "components": [
+                "not",
+                "act"
+            ]
+        },
+        {
+            "name": "not-all",
+            "components": [
+                "not",
+                "all"
+            ]
+        },
+        {
+            "name": "can-not",
+            "equivalences": [
+                "cannot"
+            ],
+            "components": [
+                "not",
+                "can"
+            ]
+        },
+        {
+            "name": "shall-not",
+            "equivalences": [
+                "will-not"
+            ],
+            "components": [
+                "not",
+                "should"
+            ]
+        },
+        {
+            "name": "must-not",
+            "equivalences": [
+                "should-not"
+            ],
+            "components": [
+                "not",
+                "must"
+            ]
+        },
+        {
+            "name": "of",
+            "equivalences": [
+                "as",
+                "with",
+                "than"
+            ],
+            "components": [
+                "of"
+            ]
+        },
+        {
+            "name": "along",
+            "components": [
+                "Motion",
+                "on"
+            ]
+        },
+        {
+            "name": "without",
+            "components": [
+                "not",
+                "of"
+            ]
+        },
+        {
+            "name": "each",
+            "components": [
+                "noun",
+                "all"
+            ]
+        },
+        {
+            "name": "all",
+            "equivalences": [
+                "every"
+            ],
+            "components": [
+                "Circle",
+                "many"
+            ]
+        },
+        {
+            "name": "everything",
+            "components": [
+                "all",
+                "noun"
+            ]
+        },
+        {
+            "name": "thing",
+            "equivalences": [
+                "things"
+            ],
+            "components": [
+                "noun"
+            ]
+        },
+        {
+            "name": "next",
+            "components": [
+                "two",
+                "one"
+            ]
+        },
+        {
+            "name": "previous",
+            "components": [
+                "one",
+                "two"
+            ]
+        },
+        {
+            "name": "very",
+            "components": [
+                "many",
+                "many"
+            ]
+        },
+        {
+            "name": "less",
+            "components": [
+                "not",
+                "many"
+            ]
+        },
+        {
+            "name": "forward",
+            "equivalences": [
+                "forwards"
+            ],
+            "components": [
+                "Motion",
+                "front"
+            ]
+        },
+        {
+            "name": "backward",
+            "equivalences": [
+                "backwards"
+            ],
+            "components": [
+                "Motion",
+                "rear"
+            ]
+        },
+        {
+            "name": "is",
+            "equivalences": [
+                "are",
+                "am",
+                "be"
+            ],
+            "components": [
+                "Being"
+            ]
+        },
+        {
+            "name": "was",
+            "equivalences": [
+                "were",
+                "been"
+            ],
+            "components": [
+                "past_tense",
+                "Being"
+            ]
+        },
+        {
+            "name": "is-not",
+            "equivalences": [
+                "are-not"
+            ],
+            "components": [
+                "not",
+                "is"
+            ]
+        },
+        {
+            "name": "was-not",
+            "equivalences": [
+                "were-not"
+            ],
+            "components": [
+                "past_tense",
+                "is-not"
+            ]
+        },
+        {
+            "name": "lack",
+            "equivalences": [
+                "lacks"
+            ],
+            "components": [
+                "is",
+                "without"
+            ]
+        },
+        {
+            "name": "ahead",
+            "equivalences": [
+                "in-front"
+            ],
+            "components": [
+                "toward",
+                "front"
+            ]
+        },
+        {
+            "name": "behind",
+            "components": [
+                "toward",
+                "rear"
+            ]
+        },
+        {
+            "name": "within",
+            "equivalences": [
+                "inside"
+            ],
+            "components": [
+                "place",
+                "at"
+            ]
+        },
+        {
+            "name": "outside",
+            "components": [
+                "place",
+                "not",
+                "at"
+            ]
+        },
+        {
+            "name": "person",
+            "equivalences": [
+                "someone",
+                "man",
+                "woman"
+            ],
+            "components": [
+                "person"
+            ]
+        },
+        {
+            "name": "most",
+            "components": [
+                "of",
+                "all"
+            ]
+        },
+        {
+            "name": "water's",
+            "components": [
+                "of",
+                "water"
+            ]
+        },
+        {
+            "name": "plant",
+            "equivalences": [
+                "plants"
+            ],
+            "components": [
+                "plant"
+            ]
+        },
+        {
+            "name": "once",
+            "components": [
+                "1",
+                "time"
+            ]
+        },
+        {
+            "name": "twice",
+            "components": [
+                "2",
+                "time"
+            ]
+        },
+        {
+            "name": "another",
+            "equivalences": [
+                "also"
+            ],
+            "components": [
+                "1",
+                "more"
+            ]
+        },
+        {
+            "name": "many",
+            "components": [
+                "many"
+            ]
+        },
+        {
+            "name": "no",
+            "equivalences": [
+                "none",
+                "zero"
+            ],
+            "components": [
+                "0"
+            ]
+        },
+        {
+            "name": "one",
+            "components": [
+                "1"
+            ]
+        },
+        {
+            "name": "two",
+            "components": [
+                "2"
+            ]
+        },
+        {
+            "name": "three",
+            "components": [
+                "3"
+            ]
+        },
+        {
+            "name": "four",
+            "components": [
+                "4"
+            ]
+        },
+        {
+            "name": "five",
+            "components": [
+                "5"
+            ]
+        },
+        {
+            "name": "six",
+            "components": [
+                "6"
+            ]
+        },
+        {
+            "name": "seven",
+            "components": [
+                "7"
+            ]
+        },
+        {
+            "name": "as-if",
+            "components": [
+                "of",
+                "if"
+            ]
+        },
+        {
+            "name": "eight",
+            "components": [
+                "8"
+            ]
+        },
+        {
+            "name": "nine",
+            "components": [
+                "9"
+            ]
+        },
+        {
+            "name": "sun's",
+            "components": [
+                "of",
+                "sun"
+            ]
+        },
+        {
+            "name": "ten",
+            "components": [
+                "two",
+                "five"
+            ]
+        },
+        {
+            "name": "sixteen",
+            "components": [
+                "four",
+                "High",
+                "two"
+            ]
+        },
+        {
+            "name": "twenty",
+            "components": [
+                "two",
+                "ten"
+            ]
+        },
+        {
+            "name": "hundred",
+            "components": [
+                "ten",
+                "High",
+                "two"
+            ]
+        },
+        {
+            "name": "thousand",
+            "components": [
+                "ten",
+                "High",
+                "three"
+            ]
+        },
+        {
+            "name": "thirty",
+            "components": [
+                "three",
+                "ten"
+            ]
+        },
+        {
+            "name": "forty",
+            "components": [
+                "four",
+                "ten"
+            ]
+        },
+        {
+            "name": "twenty-five",
+            "components": [
+                "five",
+                "High",
+                "two"
+            ]
+        }
+    ]
+}
