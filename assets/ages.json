@@ -1,0 +1,52 @@
+{
+    "entries": [
+        {
+            "historicalAge": "First Days",
+            "earliestDate": 3500,
+            "latestDate": 2500,
+            "uniqueObjectIdentifier": "AGEFirst"
+        },
+        {
+            "historicalAge": "Settlement",
+            "earliestDate": 2500,
+            "latestDate": 1670,
+            "uniqueObjectIdentifier": "AGESettlement"
+        },
+        {
+            "historicalAge": "Age of Sail",
+            "earliestDate": 1670,
+            "latestDate": 950,
+            "uniqueObjectIdentifier": "AGESail"
+        },
+        {
+            "historicalAge": "Holy Empire",
+            "earliestDate": 580,
+            "latestDate": 350,
+            "uniqueObjectIdentifier": "AGEHoly"
+        },
+        {
+            "historicalAge": "Steel Empire",
+            "earliestDate": 950,
+            "latestDate": 580,
+            "uniqueObjectIdentifier": "AGESteel"
+        },
+        {
+            "historicalAge": "Modern Day",
+            "earliestDate": 4,
+            "latestDate": 0,
+            "uniqueObjectIdentifier": "AGEPresent"
+        },
+        {
+            "historicalAge": "Iox Protectorate",
+            "earliestDate": 180,
+            "latestDate": 0,
+            "uniqueObjectIdentifier": "AGEIox"
+        },
+        {
+            "historicalAge": "Dark Age",
+            "earliestDate": 350,
+            "latestDate": 180,
+            "uniqueObjectIdentifier": "AGEDark"
+        }
+    ]
+}
